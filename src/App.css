@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Future';
+  src: url(./components/fonts/Future.ttf);
+}
+
+@font-face {
+  font-family: 'Sudo';
+  src: url(./components/fonts/SudoVariable.ttf);
+}
+.logo{
+  font-family: Future;
+  letter-spacing: 3px;
+}
+
+.navList{
+  font-family: Sudo;
+}

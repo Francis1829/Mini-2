@@ -6,7 +6,7 @@ export default {
       'white': '#fff',
       'light': '#D1D7E0',
       'black': '#000',
-      'theme-color': '#cc660c',
+      'theme-color': '#ad570a',
     },
     extend: {},
   },
