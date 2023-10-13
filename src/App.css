@@ -7,11 +7,19 @@
   font-family: 'Sudo';
   src: url(./components/fonts/SudoVariable.ttf);
 }
-.logo{
-  font-family: Future;
-  letter-spacing: 3px;
+
+@font-face {
+  font-family: 'Roboto';
+  src: url(./components/fonts/Roboto-Medium.ttf);
 }
 
+.logo{
+  font-family: Roboto;
+  letter-spacing: .5px;
+}
+nav{
+  background-image: linear-gradient(180deg,#8c4b1d -50%,rgba(255,255,255,0) 95%);
+}
 .navList{
-  font-family: Sudo;
+  font-family: Roboto;
 }

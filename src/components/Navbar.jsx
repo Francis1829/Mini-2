@@ -1,34 +1,36 @@
 import React from 'react'
-import Logo from './img/Logo.png'
+import Logo from './img/Logo1.png'
+import { Link } from  "react-router-dom";
 
 export default function Navbar() {
-    const menuList = [
-        { 
-        name: "Home",
-        link:  "/",
-    },
-    { 
-        name: "Games",
-        link:  "/",
-    },
-    { 
-        name: "Cafes",
-        link:  "/",
-    },     
-    ]
+    // const menuList = [
+    //     { 
+    //     name: "Home",
+    //     link:  "/",
+    // },
+    // {
+    //    name: "Categories",
+    //    link: "/",
+    // },
+    // { 
+    //     name: "Games",
+    //     link:  "/",
+    // },
+    // { 
+    //     name: "Cafes",
+    //     link:  "/",
+    // },     
+    // ]
 
   return (
     <>
     <header>
-      <nav className='bg-theme-color p-2 px-[2rem]'>
-        <div className="navbar flex justify-between">
-          <div className="logo flex items-center text-white text-[22px]"><img src={Logo} alt="" width={50} />ocialzone</div>
-          <div className="navList flex justify-center items-center gap-20 text-[24px] font-[500] text-white">
-            {menuList.map((item, idx) => (
-                <a className="hover:text-black ease-in-out duration-300" key={idx} href={item.link}>
-                  {item.name}
-                </a>
-              ))}
+      <nav className='p-2 px-[5rem]'>
+        <div className="navbar flex justify-start gap-10 text-white ">
+          <div className="logo flex items-center text-[25px] uppercase"><img src={Logo} alt="" width={35} className="mr-1 md:cursor-pointer"/>ocialzone</div>
+          <div className="navList flex justify-center items-center gap-4 text-[16px] font-[300]">
+             home
+            
             </div>
         </div>
       </nav>
