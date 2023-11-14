@@ -4,10 +4,10 @@ export default {
   theme: {
     colors: {
       'white': '#fff',
-      'light': '#D1D7E0',
-      'black': '#000',
-      'nav-color': '#aab259',
-      'theme-color': '#e37627',
+      'light': '#f5f3f2',
+      'black': '#000000',
+      'theme-color': '#c9aa5b',
+      't-hover' : '#f0cb6e',
     },
     extend: {},
   },

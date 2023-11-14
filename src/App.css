@@ -1,6 +1,6 @@
 @font-face {
-  font-family: 'Future';
-  src: url(./components/fonts/Future.ttf);
+  font-family: 'Agency';
+  src: url(./components/fonts/Agency.TTF);
 }
 
 @font-face {
@@ -13,13 +13,42 @@
   src: url(./components/fonts/Roboto-Medium.ttf);
 }
 
-.logo{
-  font-family: Roboto;
-  letter-spacing: .5px;
+body{
+  background-color: #eeeeee;
 }
 nav{
-  background-image: linear-gradient(180deg,#8c4b1d -50%,rgba(255,255,255,0) 95%);
+  border-bottom: 1px solid rgba(124, 124, 124, 0.5)  ;
 }
-.navList{
-  font-family: Roboto;
+.alr{
+  border-top: 1px solid rgba(124, 124, 124, 0.5)  ;
+}
+.header.scrolled .navList{
+  color: black;
+}
+
+.header.scrolled button{
+  color: black;
+
+}
+.banner, footer, .alr, .footl{
+  background-image:url("./components/img/texture-black-v2.jpg");
+}
+.pagination a {
+  padding: 10px;
+  margin-inline: 2px;
+  text-decoration: none;
+  color: #333;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  border-radius: 5px;
+}
+.pagination a:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+.pagination .active a {
+  background-color: #000000;
+  color: #fff;
+  cursor: default;
 }

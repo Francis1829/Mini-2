@@ -1,0 +1,2912 @@
+{
+  "product":
+  [
+  {
+    "position": 1,
+    "name" : "CORSAIR RM750x Shift",
+    "title": "CORSAIR RM750x Shift Fully Modular ATX Power Supply - Modular Side Interface - ATX 3.0 & PCIe 5.0 Compliant - Zero RPM Fan Mode - 105°C-Rated Capacitors - 80 Plus Gold Efficiency - Black",
+    "asin": "B0C61XRJBG",
+    "link": "https://www.amazon.com/CORSAIR-RM750x-Shift-Modular-Supply/dp/B0C61XRJBG/ref=sr_1_1?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-1",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/810l13R8Y9L._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.7,
+    "ratings_total": 8000,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 129.99,
+        "currency": "USD",
+        "raw": "$129.99",
+        "name": "Primary",
+        "is_primary": true
+      }
+    ],
+    "page": "1",
+    "position_overall": 1
+  }, 
+  {
+    "position": 2,
+    "name" : "ASUS TUF GAMING",
+    "title": "ASUS TUF GAMING B650M-PLUS WIFI Socket AM5 (LGA 1718) Ryzen 7000 mATX gaming motherboard(14 power stages, PCIe® 5.0 M.2 support, DDR5 memory, 2.5 Gb Ethernet, WiFi 6, USB4® support and Aura Sync)",
+    "asin": "B0BHMW2L8B",
+    "link": "https://www.amazon.com/ASUS-TUF-B650M-PLUS-Motherboard-Ethernet/dp/B0BHMW2L8B/ref=sr_1_2?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-2",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/6164QC+KY3L._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.6,
+    "ratings_total": 1389,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 219.99,
+        "currency": "USD",
+        "raw": "$219.99",
+        "asin": "B0BHMW2L8B",
+        "link": "https://www.amazon.com/ASUS-TUF-B650M-PLUS-Motherboard-Ethernet/dp/B0BHMW2L8B/ref=sr_1_2?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-2"
+      }
+    ],
+    "page": "1",
+    "position_overall": 2
+  },
+  {
+    "position": 3,
+    "name" : "AMD Ryzen™ 9",
+    "title": "AMD Ryzen™ 9 7900X 12-Core, 24-Thread Unlocked Desktop Processor",
+    "asin": "B0BBJ59WJ4",
+    "link": "https://www.amazon.com/AMD-7900X-24-Thread-Unlocked-Processor/dp/B0BBJ59WJ4/ref=sr_1_3?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-3",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/51CjeDpAvnL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.7,
+    "ratings_total": 792,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 391.87,
+        "currency": "USD",
+        "raw": "$391.87",
+        "name": "Primary",
+        "is_primary": true
+      }
+    ],
+    "page": "1",
+    "position_overall": 3
+  },
+  {
+    "position": 4,
+    "name" : "MSI MAG B650",
+    "title": "MSI MAG B650 Tomahawk WiFi Gaming Motherboard (AMD AM5, ATX, DDR5, PCIe 4.0, M.2, SATA 6Gb/s, USB 3.2 Gen 2, HDMI/DP, Wi-Fi 6E, AMD Ryzen 7000 Series Desktop Processors)",
+    "asin": "B0BHCCNSRH",
+    "link": "https://www.amazon.com/MSI-B650-Tomahawk-Motherboard-Processors/dp/B0BHCCNSRH/ref=sr_1_4?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-4",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/81k4xzo++EL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.2,
+    "ratings_total": 603,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 219.95,
+        "currency": "USD",
+        "raw": "$219.95",
+        "name": "Primary",
+        "is_primary": true
+      }
+    ],
+    "page": "1",
+    "position_overall": 4
+  },
+  {
+    "position": 5,
+    "name" : "ROG Thor",
+    "title": "ROG Thor 1200W Platinum II (1200 Watt, Fully Modular Power Supply, 80+ Platinum, Lambda A++ Certified, ROG heatsinks, 135mm PWM Fan, 0dB Mode, OLED Panel, Sleeved Cables, Aura Sync, 10 Year Warranty)",
+    "asin": "B0BWGWV29G",
+    "link": "https://www.amazon.com/Platinum-Modular-Certified-heatsinks-Warranty/dp/B0BWGWV29G/ref=sr_1_5?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-5",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/81IqY-18ftL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.7,
+    "ratings_total": 410,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 329.99,
+        "currency": "USD",
+        "raw": "$329.99",
+        "name": "Primary",
+        "is_primary": true
+      }
+    ],
+    "page": "1",
+    "position_overall": 5
+  },
+  {
+    "position": 6,
+    "name" : "NX410 ATX",
+    "title": "Antec NX410 ATX Mid-Tower Case, Tempered Glass Side Panel, Full Side View, Pre-Installed 2 x 140mm in Front & 1 x 120 mm ARGB Fans in Rear (White) (9734088000)",
+    "asin": "B08PTB45YQ",
+    "link": "https://www.amazon.com/Antec-NX410-Mid-Tower-Tempered-Pre-Installed/dp/B08PTB45YQ/ref=sr_1_6?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-6",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71jvOyyW1QL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.5,
+    "ratings_total": 1009,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 69.99,
+        "currency": "USD",
+        "raw": "$69.99",
+        "name": "Primary",
+        "is_primary": true
+      }
+    ],
+    "page": "1",
+    "position_overall": 6
+  },
+  {
+    "position": 7,
+    "name" : "PCI-E",
+    "title": "PCI-E to USB 3.0 7-Port(2X USB-C - 5X USB-A) Expansion Card,PCI Express USB Add in Card, Internal USB3 Hub Converter for Desktop PC Host Card Support Windows 10/8/7/XP and MAC OS 10.8.2 Above",
+    "asin": "B08PF8XR73",
+    "link": "https://www.amazon.com/YEELIYA-PCI-7-Port-USB-C-USB/dp/B08PF8XR73/ref=sr_1_7?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-7",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61hy04DVZlL._AC_UY218_.jpg",
+    "bestseller": {
+      "link": "https://www.amazon.com/gp/bestsellers/pc/229185/ref=sr_bs_6_229185_1",
+      "category": "Internal USB Port Cards"
+    },
+    "coupon": { "badge_text": "Save 5%", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 4.3,
+    "ratings_total": 2107,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 37.99,
+        "currency": "USD",
+        "raw": "$37.99",
+        "name": "Primary",
+        "is_primary": true
+      }
+    ],
+    "page": "1",
+    "position_overall": 7
+  },
+  {
+    "position": 8,
+    "name" : "CORSAIR Dominator",
+    "title": "CORSAIR Dominator Titanium RGB DDR5 RAM 48GB (2x24GB) DDR5 7200MHz CL36 Intel XMP iCUE Compatible Computer Memory - Black (CMP48GX5M2X7200C36)",
+    "asin": "B0CHSCVNQN",
+    "link": "https://www.amazon.com/CORSAIR-Dominator-Titanium-Compatible-Computer/dp/B0CHSCVNQN/ref=sr_1_8?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-8",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/611o1NX2HvL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 3.9,
+    "ratings_total": 6,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 264.99,
+        "currency": "USD",
+        "raw": "$264.99",
+        "asin": "B0CHSCVNQN",
+        "link": "https://www.amazon.com/CORSAIR-Dominator-Titanium-Compatible-Computer/dp/B0CHSCVNQN/ref=sr_1_8?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-8"
+      }
+    ],
+    "page": "1",
+    "position_overall": 8
+  },
+  {
+    "position": 9,
+    "name" : "Intel Core i7-13700K",
+    "title": "Intel Core i7-13700K Gaming Desktop Processor 16 cores (8 P-cores + 8 E-cores) with Integrated Graphics - Unlocked",
+    "asin": "B0BCF57FL5",
+    "link": "https://www.amazon.com/Intel-i7-13700K-Desktop-Processor-P-cores/dp/B0BCF57FL5/ref=sr_1_10?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-10",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61m0zH-NiTL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.8,
+    "ratings_total": 936,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 382.75,
+        "currency": "USD",
+        "raw": "$382.75",
+        "name": "Primary",
+        "is_primary": true
+      }
+    ],
+    "page": "1",
+    "position_overall": 9
+  },
+  {
+    "position": 10,
+    "name" : "Thermaltake CT120",
+    "title": "Thermaltake CT120 PC Cooling Fan (2-Fan Pack), Daisy-Chain Design, Fan speeds up to 2000 RPM, 120 mm Hydraulic Bearing Fan, Anti-Vibration mounting, CL-F147-PL12BL-A Black",
+    "asin": "B0BSP3T9WT",
+    "link": "https://www.amazon.com/Thermaltake-Daisy-Chain-Hydraulic-Anti-Vibration-CL-F147-PL12BL/dp/B0BSP3T9WT/ref=sr_1_11?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-11",
+    "availability": { "raw": "Only 6 left in stock - order soon." },
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71dn3ocHNqL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.5,
+    "ratings_total": 30,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 24.99,
+        "currency": "USD",
+        "raw": "$24.99",
+        "asin": "B0BSP3T9WT",
+        "link": "https://www.amazon.com/Thermaltake-Daisy-Chain-Hydraulic-Anti-Vibration-CL-F147-PL12BL/dp/B0BSP3T9WT/ref=sr_1_11?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-11"
+      }
+    ],
+    "page": "1",
+    "position_overall": 10
+  },
+  {
+    "position": 11,
+    "name" : "Intel Core i9-13900K",
+    "title": "Intel Core i9-13900K Gaming Desktop Processor 24 cores (8 P-cores + 16 E-cores) with Integrated Graphics - Unlocked",
+    "asin": "B0BCF54SR1",
+    "link": "https://www.amazon.com/Intel-i9-13900K-Desktop-Processor-P-cores/dp/B0BCF54SR1/ref=sr_1_12?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-12",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61My4F2-XUL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.7,
+    "ratings_total": 1104,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 546.99,
+        "currency": "USD",
+        "raw": "$546.99",
+        "name": "Primary",
+        "is_primary": true
+      }
+          ],
+    "page": "1",
+    "position_overall": 11
+  },
+  {
+    "position": 12,
+    "name" : "Master Hyper",
+    "title": "Cooler Master Hyper 620S Dual Tower CPU Air Cooler, ARGB Sync, 120mm PWM Fan, 6 Copper Direct Contact Heat Pipes, 154.9mm Tall Silver",
+    "asin": "B0C6YQ8DPQ",
+    "link": "https://www.amazon.com/Cooler-Master-Copper-Contact-154-9mm/dp/B0C6YQ8DPQ/ref=sr_1_13?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-13",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71GBebBHzcL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save $15.00", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 4.7,
+    "ratings_total": 18695,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 54.87,
+        "currency": "USD",
+        "raw": "$54.87",
+        "asin": "B0C6YQ8DPQ",
+        "link": "https://www.amazon.com/Cooler-Master-Copper-Contact-154-9mm/dp/B0C6YQ8DPQ/ref=sr_1_13?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-13"
+      }    
+    ],
+    "page": "1",
+    "position_overall": 12
+  },
+  {
+    "position": 13,
+    "name" : "ORIGBELIE External",
+    "title": "ORIGBELIE External CD/DVD Drive for Laptop, USB 3.0 CD Burner +/-RW CD ROM External DVD Drive Portable DVD Player for Laptop Desktop PC Apple Mac Windows 11/10/8/7/XP Linux OS",
+    "asin": "B0C9DP3G86",
+    "link": "https://www.amazon.com/ORIGBELIE-External-Portable-Desktop-Windows/dp/B0C9DP3G86/ref=sr_1_14?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-14",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/619we263wdL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save $2.00", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 4,
+    "ratings_total": 37,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 19.99,
+        "currency": "USD",
+        "raw": "$19.99",
+        "asin": "B0C9DP3G86",
+        "link": "https://www.amazon.com/ORIGBELIE-External-Portable-Desktop-Windows/dp/B0C9DP3G86/ref=sr_1_14?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-14"
+      }
+    ],
+    "page": "1",
+    "position_overall": 13
+  },
+  {
+    "position": 14,
+    "name" : "SK hynix Platinum",
+    "title": "SK hynix Platinum P41 2TB PCIe NVMe Gen4 M.2 2280 Internal Gaming SSD, Up to 7,000MB/S, Compact SSD Form Factor - Solid State Drive with 176-Layer NAND Flash",
+    "asin": "B09QVD9V7R",
+    "link": "https://www.amazon.com/SK-hynix-Platinum-Internal-Compact/dp/B09QVD9V7R/ref=sr_1_15?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-15",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71RGTZJJuqL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.8,
+    "ratings_total": 2200,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 156.99,
+        "currency": "USD",
+        "raw": "$156.99",
+        "asin": "B09QVD9V7R",
+        "link": "https://www.amazon.com/SK-hynix-Platinum-Internal-Compact/dp/B09QVD9V7R/ref=sr_1_15?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-15"
+      }
+    ],
+    "page": "1",
+    "position_overall": 14
+  },
+  {
+    "position": 15,
+    "name" : "Aivalas GPU",
+    "title": "Aivalas GPU Support Bracket, Graphics Video Card Brace with Height Adjustable, Anti Sag Holder for Universal Graphics Card Sag, GPU Stand with Magnet and Rubber Pad (Black)",
+    "asin": "B0BPGJCLYR",
+    "link": "https://www.amazon.com/Aivalas-Support-Graphics-Adjustable-Universal/dp/B0BPGJCLYR/ref=sr_1_17?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-17",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71H7BANd7nL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.6,
+    "ratings_total": 208,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 5.99,
+        "currency": "USD",
+        "raw": "Join Prime to buy this item at $5.99"
+      }
+    ],
+    "page": "1",
+    "position_overall": 15
+  },
+  {
+    "position": 16,
+    "name" : "Intel® Core™ i9-14900KF",
+    "title": "Intel® Core™ i9-14900KF New Gaming Desktop Processor 24 cores (8 P-cores + 16 E-cores) - Unlocked",
+    "asin": "B0CGJDBCTK",
+    "link": "https://www.amazon.com/Intel%C2%AE-i9-14900KF-Desktop-Processor-P-cores/dp/B0CGJDBCTK/ref=sr_1_18?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-18",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61jRMCAX4CL._AC_UY218_.jpg",
+    "rating": 4.3,
+    "ratings_total": 35,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 555.99,
+        "currency": "USD",
+        "raw": "$555.99",
+        "asin": "B0CGJDBCTK",
+        "link": "https://www.amazon.com/Intel%C2%AE-i9-14900KF-Desktop-Processor-P-cores/dp/B0CGJDBCTK/ref=sr_1_18?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-18"
+      }
+    ],
+    "page": "1",
+    "position_overall": 16
+  },
+  {
+    "position": 17,
+    "name" : "GIM Mid Tower",
+    "title": "GIM Mid Tower PC Case Gaming Case with Opening Tempered Glass Side Panel, Double Front Dustproof Gaming Computer Case, USB 3.0 I/O Port, 2 Magnet Dust Filters, Mid-Tower Case Without Fans",
+    "asin": "B0C6ZVHF2N",
+    "link": "https://www.amazon.com/GIM-Tempered-Dustproof-Computer-Mid-Tower/dp/B0C6ZVHF2N/ref=sr_1_19?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-19",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71IRDZ7TDwL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.6,
+    "ratings_total": 194,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 69.99,
+        "currency": "USD",
+        "raw": "$69.99",
+        "name": "Primary",
+        "is_primary": true
+      }
+    ],
+    "page": "1",
+    "position_overall": 17
+  },
+  {
+    "position": 18,
+    "name" : "Cooler Master TD300 ",
+    "title": "Cooler Master TD300 Mesh Micro-ATX Tower with Polygonal Mesh Front ana Removable Top Panel, ARGB/PWM Hub Tempered Glass, Dual Sickleflow PWM ARGB Lighting Fans",
+    "asin": "B09JQVHG85",
+    "link": "https://www.amazon.com/Cooler-Master-Micro-ATX-Polygonal-Sickleflow/dp/B09JQVHG85/ref=sr_1_20?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-20",
+    "availability": { "raw": "Only 2 left in stock - order soon." },
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/81jk11GK7EL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.7,
+    "ratings_total": 3908,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 94.99,
+        "currency": "USD",
+        "raw": "$94.99",
+        "name": "Primary",
+        "is_primary": true
+      }
+    ],
+    "page": "1",
+    "position_overall": 18
+  },
+  {
+    "position": 19,
+    "name" : "ELEGOO Mega R3 Project",
+    "title": "ELEGOO Mega R3 Project The Most Complete Ultimate Starter Kit with Tutorial Compatible with Arduino IDE",
+    "asin": "B01EWNUUUA",
+    "link": "https://www.amazon.com/EL-KIT-008-Project-Complete-Ultimate-TUTORIAL/dp/B01EWNUUUA/ref=sr_1_21?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-21",
+    "recent_sales": "2K+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/815rdRVWV8L._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save $8.00", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 4.7,
+    "ratings_total": 6850,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 65.99,
+        "currency": "USD",
+        "raw": "$65.99",
+        "asin": "B01EWNUUUA",
+        "link": "https://www.amazon.com/EL-KIT-008-Project-Complete-Ultimate-TUTORIAL/dp/B01EWNUUUA/ref=sr_1_21?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-21"
+      }
+    ],
+    "page": "1",
+    "position_overall": 19
+  },
+  {
+    "position": 20,
+    "name" : "KEYFANCLUB Muffin Fan",
+    "title": "KEYFANCLUB Muffin Fan 110v 120v 220v 3 inch Fan with AC Plug Electronic Cooling Fan 80mm x 25mm",
+    "asin": "B0CBFDYGZC",
+    "link": "https://www.amazon.com/KEYFANCLUB-Muffin-110v-Electronic-Cooling/dp/B0CBFDYGZC/ref=sr_1_22?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-22",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71fcBdkS9EL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.5,
+    "ratings_total": 27,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 14.99,
+        "currency": "USD",
+        "raw": "$14.99",
+        "name": "Primary",
+        "is_primary": true
+      }
+    ],
+    "page": "1",
+    "position_overall": 20
+  },
+  {
+    "position": 21,
+    "name" : "ASUS PRIME B760M-A",
+    "title": "ASUS PRIME B760M-A Intel B760(LGA1700)(13th and 12th Gen)mATX motherboard,PCIe 4.0,DDR5, 2xM.2 slots,2.5Gb LAN, DP, Dual HDMI®, SATA 6 Gbps, rear USB 3.2 Gen 2, front USB 3.2 Gen 1 Type-C®, Aura Sync",
+    "asin": "B0C3ZNL5XS",
+    "link": "https://www.amazon.com/ASUS-PRIME-LGA1700-motherboard-Type-C%C2%AE/dp/B0C3ZNL5XS/ref=sr_1_23?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-23",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/81867HxtJgL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.4,
+    "ratings_total": 8,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 154.99,
+        "currency": "USD",
+        "raw": "$154.99",
+        "asin": "B0C3ZNL5XS",
+        "link": "https://www.amazon.com/ASUS-PRIME-LGA1700-motherboard-Type-C%C2%AE/dp/B0C3ZNL5XS/ref=sr_1_23?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-23"
+      }
+    ],
+    "page": "1",
+    "position_overall": 21
+  },
+  {
+    "position": 22,
+    "name" : "Cooler Master MasterLiquid",
+    "title": "Cooler Master MasterLiquid 120L Core 120mm Close-Loop AIO Liquid Cooler, White LED Pump, Gen S Coldplate Pump, 120mm PWM, CryoFuze 14W/mK, AMD Ryzen AM5/AM4, Intel LGA1700/1200 (MLW-D12M-A17PK-R1)",
+    "asin": "B0CDF9343N",
+    "link": "https://www.amazon.com/Cooler-Master-MasterLiquid-Close-Loop-MLW-D12M-A17PK-R1/dp/B0CDF9343N/ref=sr_1_24?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-24",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71tBl7omkDL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save $10.00", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 4.6,
+    "ratings_total": 79,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 69.99,
+        "currency": "USD",
+        "raw": "$69.99",
+        "asin": "B0CDF9343N",
+        "link": "https://www.amazon.com/Cooler-Master-MasterLiquid-Close-Loop-MLW-D12M-A17PK-R1/dp/B0CDF9343N/ref=sr_1_24?keywords=Computer+Components&qid=1699195092&s=pc&sr=1-24"
+      }
+    ],
+    "page": "1",
+    "position_overall": 22
+  },
+  {
+    "position": 23,
+    "name" : "Magnetic Big Airflow 2",
+    "title": "Magnetic Big Airflow 2 x 120mm Computer Fan with AC Plug Cabinet Fan 110V 240V AC Power Supply, Speed Controller 3V to 12V,Cooling Fan for Mining Machine Chassis Server Workstation Cooling",
+    "asin": "B0C4YGXK1K",
+    "link": "https://www.amazon.com/Magnetic-Airflow-Computer-Controller-Workstation/dp/B0C4YGXK1K/ref=sr_1_25?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-25",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61boSd89yaL._AC_UY218_.jpg",
+    "unit_price": "$10.50/Item",
+    "is_prime": true,
+    "rating": 3.5,
+    "ratings_total": 3,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 20.99,
+        "currency": "USD",
+        "raw": "$20.99",
+        "name": "Save 42%",
+        "is_primary": true
+      }
+    ],
+    "page": 2,
+    "position_overall": 23
+  },
+  {
+    "position": 24,
+    "name" : "KVM Switch HDMI",
+    "title": "KVM Switch HDMI, Upgraded USB and HDMI KVM Switch for 2 Computers Share Keyboard Mouse Printer to One HD Monitor, Supports 4K@60 Hz, 2 HDMI Cables and 2 USB Cables Included",
+    "asin": "B0CBC1QMHH",
+    "link": "https://www.amazon.com/Upgraded-Computers-Keyboard-Supports-Included/dp/B0CBC1QMHH/ref=sr_1_26?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-26",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61htFrzhn2L._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save 20%", "text": "with coupon" },
+    "is_prime": true,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 29.99,
+        "currency": "USD",
+        "raw": "$29.99",
+        "asin": "B0CBC1QMHH",
+        "link": "https://www.amazon.com/Upgraded-Computers-Keyboard-Supports-Included/dp/B0CBC1QMHH/ref=sr_1_26?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-26"
+      }
+    ],
+    "page": 2,
+    "position_overall": 24
+  },
+  {
+    "position": 25,
+    "name" : "ORIGBELIE External",
+    "title": "ORIGBELIE External CD/DVD Drive for Laptop, USB 3.0 CD Burner +/-RW CD ROM External DVD Drive Portable DVD Player for Laptop Desktop PC Apple Mac Windows 11/10/8/7/XP Linux OS",
+    "asin": "B0C9DP3G86",
+    "link": "https://www.amazon.com/ORIGBELIE-External-Portable-Desktop-Windows/dp/B0C9DP3G86/ref=sr_1_27?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-27",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/619we263wdL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save $2.00", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 4,
+    "ratings_total": 37,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 19.99,
+        "currency": "USD",
+        "raw": "$19.99",
+        "asin": "B0C9DP3G86",
+        "link": "https://www.amazon.com/ORIGBELIE-External-Portable-Desktop-Windows/dp/B0C9DP3G86/ref=sr_1_27?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-27"
+      }
+    ],
+    "page": 2,
+    "position_overall": 25
+  },
+  {
+    "position": 26,
+    "name" : "Thermalright TL-C12C X3",
+    "title": "Thermalright TL-C12C X3 CPU Fan 120mm Case Cooler Fan, 4pin PWM Silent Computer Fan with S-FDB Bearing Included, up to 1550RPM Cooling Fan（3 Quantities）",
+    "asin": "B0BKKG1ZND",
+    "link": "https://www.amazon.com/Thermalright-TL-C12C-Computer-Included-Quantities%EF%BC%89/dp/B0BKKG1ZND/ref=sr_1_28?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-28",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/612RL8vAL9L._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.6,
+    "ratings_total": 496,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 11.9,
+        "currency": "USD",
+        "raw": "$11.90",
+        "asin": "B0BKKG1ZND",
+        "link": "https://www.amazon.com/Thermalright-TL-C12C-Computer-Included-Quantities%EF%BC%89/dp/B0BKKG1ZND/ref=sr_1_28?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-28"
+      }
+    ],
+    "page": 2,
+    "position_overall": 26
+  },
+  {
+    "position": 27,
+    "name" : "Noctua NF-P12",
+    "title": "Noctua NF-P12 redux-1700 PWM, High Performance Cooling Fan, 4-Pin, 1700 RPM (120mm, Grey), Compatible with Desktop",
+    "asin": "B07CG2PGY6",
+    "link": "https://www.amazon.com/Noctua-redux-1700-high-Performance-Award-Winning-Affordable/dp/B07CG2PGY6/ref=sr_1_29?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-29",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/81ZUUX5VZsL._AC_UY218_.jpg",
+    "bestseller": {
+      "link": "https://www.amazon.com/gp/bestsellers/pc/11036291/ref=sr_bs_4_11036291_1",
+      "category": "Computer Case Fans"
+    },
+    "is_prime": true,
+    "rating": 4.8,
+    "ratings_total": 16667,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 15.95,
+        "currency": "USD",
+        "raw": "$15.95",
+        "name": "Primary",
+        "is_primary": true
+      }
+      ],
+    "page": 2,
+    "position_overall": 27
+  },
+  {
+    "position": 28,
+    "name" : "Qirssyn 120mm AC",
+    "title": "Qirssyn 120mm AC Powered Fan with Vriable Speed Controller, AC 110V to 220V Vriable Speed Fan for Receiver Amplifier DVR Playstation Component Cooling",
+    "asin": "B092C65F3P",
+    "link": "https://www.amazon.com/Qirssyn-Controller-Amplifier-Playstation-Component/dp/B092C65F3P/ref=sr_1_30?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-30",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71fPveDrQ1L._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.6,
+    "ratings_total": 454,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 18.99,
+        "currency": "USD",
+        "raw": "$18.99",
+        "name": "Primary",
+        "is_primary": true
+      }
+    ],
+    "page": 2,
+    "position_overall": 28
+  },
+  {
+    "position": 29,
+    "name" : "Onwon 2 Pack PWM",
+    "title": "Onwon 2 Pack PWM Fan Splitter Cable 4 Pin Sleeved Braided Y Splitter Computer PC Fan Power Cable 1 to 2 Converter, Extension Cable",
+    "asin": "B07K2V2GJT",
+    "link": "https://www.amazon.com/Splitter-Sleeved-Computer-Converter-Extension/dp/B07K2V2GJT/ref=sr_1_31?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-31",
+    "availability": { "raw": "Only 13 left in stock - order soon." },
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/610u7cl6rqL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.5,
+    "ratings_total": 13,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 6.98,
+        "currency": "USD",
+        "raw": "$6.98",
+        "asin": "B07K2V2GJT",
+        "link": "https://www.amazon.com/Splitter-Sleeved-Computer-Converter-Extension/dp/B07K2V2GJT/ref=sr_1_31?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-31"
+      }
+    ],
+    "page": 2,
+    "position_overall": 29
+  },
+  {
+    "position": 30,
+    "name" : "qwertyuiop",
+    "title": "ATX Matx Itx Pc Test Bench Motherboard Stand Open Frame Air Pc Case Test Bench Vertical Water Cooling Aluminum Support Vertical",
+    "asin": "B0CD1S3HF5",
+    "link": "https://www.amazon.com/Motherboard-Vertical-Cooling-Aluminum-Support/dp/B0CD1S3HF5/ref=sr_1_32?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-32",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61uOQa2QVqL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save 5%", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 4.1,
+    "ratings_total": 3,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 66.3,
+        "currency": "USD",
+        "raw": "$66.30",
+        "asin": "B0CD1S3HF5",
+        "link": "https://www.amazon.com/Motherboard-Vertical-Cooling-Aluminum-Support/dp/B0CD1S3HF5/ref=sr_1_32?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-32"
+      }
+    ],
+    "page": 2,
+    "position_overall": 32
+  },
+  {
+    "position": 31,
+    "name" : "SAMSUNG M471A1K43CB1-CTD",
+    "title": "SAMSUNG M471A1K43CB1-CTD 2666MHz Memory Modules (8GB, 1 x 8GB, DDR4, 2666 MHz, 260-Pin SO-DIMM, Black, Green)",
+    "asin": "B07JWG53DG",
+    "link": "https://www.amazon.com/Samsung-2666MHz-Memory-Laptops-M471A1K43CB1/dp/B07JWG53DG/ref=sr_1_33?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-33",
+    "availability": { "raw": "Only 5 left in stock - order soon." },
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71EpUaMZaTL._AC_UY218_.jpg",
+    "rating": 4.8,
+    "ratings_total": 2955,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 17.99,
+        "currency": "USD",
+        "raw": "$17.99",
+        "name": "Primary",
+        "is_primary": true
+      }
+    ],
+    "page": 2,
+    "position_overall": 33
+  },
+  {
+    "position": 32,
+    "name" : "UGREEN 10Gbps USB C Switch",
+    "title": "UGREEN 10Gbps USB C Switch 2 Computers Sharing USB C & A Devices, 4 Port USB C 3.2 Switcher for Mac, 2 USB C Laptop Sharing Keyboard, Mouse, Printer and Scanner with 2 USB C Data Cables and Remote",
+    "asin": "B0CH7T76RX",
+    "link": "https://www.amazon.com/UGREEN-Computers-Sharing-Switcher-Keyboard/dp/B0CH7T76RX/ref=sr_1_34?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-34",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61DpOzxGxiL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save 10%", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 5,
+    "ratings_total": 1,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 69.99,
+        "currency": "USD",
+        "raw": "$69.99",
+        "asin": "B0CH7T76RX",
+        "link": "https://www.amazon.com/UGREEN-Computers-Sharing-Switcher-Keyboard/dp/B0CH7T76RX/ref=sr_1_34?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-34"
+      }
+    ],
+    "page": 2,
+    "position_overall": 34
+  },
+  {
+    "position": 33,
+    "name" : "KEYFANCLUB 2-Pack",
+    "title": "KEYFANCLUB 2-Pack 90mm Fan DC 12V Computer Fan 92mm x 92mm x 25mm 2-Pin High Performance Cooling Fan 2000RPM",
+    "asin": "B08KB34DZ5",
+    "link": "https://www.amazon.com/2-Pack-Computer-Performance-Cooling-2000RPM/dp/B08KB34DZ5/ref=sr_1_35?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-35",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71PcRFKCEtS._AC_UY218_.jpg",
+    "unit_price": "$7.00/Count",
+    "is_prime": true,
+    "rating": 4.5,
+    "ratings_total": 593,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 13.99,
+        "currency": "USD",
+        "raw": "$13.99",
+        "asin": "B08KB34DZ5",
+        "link": "https://www.amazon.com/2-Pack-Computer-Performance-Cooling-2000RPM/dp/B08KB34DZ5/ref=sr_1_35?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-35"
+      }
+    ],
+    "page": 2,
+    "position_overall": 35
+  },
+  {
+    "position": 34,
+    "name" : "Temdan 4 Pack USB to USB C Adapter",
+    "title": "Temdan [4 Pack USB to USB C Adapter,Type C Charger Cable Power Converter for Apple Watch Ultra iWatch 8 7,iPhone 14 13 12 11 Pro Plus Max,Airpods,iPad 9 10 Air 5 Mini 6,Samsung S21 -Blue",
+    "asin": "B0CJM1SVM3",
+    "link": "https://www.amazon.com/Temdan-Adapter-Charger-Converter-Airpods/dp/B0CJM1SVM3/ref=sr_1_36?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-36",
+    "availability": { "raw": "Only 16 left in stock - order soon." },
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61zD4eXJujL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.5,
+    "ratings_total": 2269,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 6.99,
+        "currency": "USD",
+        "raw": "$6.99",
+        "asin": "B0CJM1SVM3",
+        "link": "https://www.amazon.com/Temdan-Adapter-Charger-Converter-Airpods/dp/B0CJM1SVM3/ref=sr_1_36?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-36"
+      }
+    ],
+    "page": 2,
+    "position_overall": 36
+  },
+  {
+    "position": 35,
+    "name" : "Corsair 4000D Airflow",
+    "title": "Corsair 4000D Airflow Tempered Glass Mid-Tower ATX PC Case - Black",
+    "asin": "B08C7BGV3D",
+    "link": "https://www.amazon.com/Corsair-4000D-Airflow-Tempered-Mid-Tower/dp/B08C7BGV3D/ref=sr_1_37?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-37",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/51jqeuI6mAL._AC_UY218_.jpg",
+    "bestseller": {
+      "link": "https://www.amazon.com/gp/bestsellers/pc/572238/ref=sr_bs_12_572238_1",
+      "category": "Computer Cases"
+    },
+    "is_prime": true,
+    "rating": 4.8,
+    "ratings_total": 13771,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 79.99,
+        "currency": "USD",
+        "raw": "$79.99",
+        "name": "Save 24%",
+        "is_primary": true
+      }
+    ],
+    "page": 2,
+    "position_overall": 37
+  },
+  {
+    "position": 36,
+    "name" : "JAZZCOOLING Computer Memory Ram",
+    "title": "JAZZCOOLING Computer Memory Ram Radiator Aluminum Heatsink ram Cooler Fan with Dual 50mm 4Pin PWM &5V 3PIN ARGB ram Cooling Fan for Memory Module Cooling Solution (Black)",
+    "asin": "B0CFPZ85DJ",
+    "link": "https://www.amazon.com/JAZZCOOLING-Computer-Radiator-Aluminum-Heatsink/dp/B0CFPZ85DJ/ref=sr_1_38?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-38",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61ymXff0VML._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 2.6,
+    "ratings_total": 6,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 22.99,
+        "currency": "USD",
+        "raw": "$22.99",
+        "asin": "B0CFPZ85DJ",
+        "link": "https://www.amazon.com/JAZZCOOLING-Computer-Radiator-Aluminum-Heatsink/dp/B0CFPZ85DJ/ref=sr_1_38?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-38"
+      }
+    ],
+    "page": 2,
+    "position_overall": 38
+  },
+  {
+    "position": 37,
+    "name" : "Triple Monitors KVM",
+    "title": "Triple Monitors KVM Switch 2 Displayport + HDMI USB 3.0 KVM Switch 8K@60Hz,4K@144Hz 3 Monitors 2 Computers KVM with 4 USB 3.0 Ports Included KVM Cables,HDMI 8K@60Hz/4K@60Hz,DP 8K@30Hz/4K@144Hz",
+    "asin": "B0CHNMWJQH",
+    "link": "https://www.amazon.com/Triple-Monitors-Displayport-Computers-Included/dp/B0CHNMWJQH/ref=sr_1_39?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-39",
+    "recent_sales": "100+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/711ZoC+XQOL._AC_UY218_.jpg",
+    "rating": 4.5,
+    "ratings_total": 79,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 149.99,
+        "currency": "USD",
+        "raw": "$149.99",
+        "name": "Primary",
+        "is_primary": true
+      }
+    ],
+    "page": 2,
+    "position_overall": 39
+  },
+  {
+    "position": 38,
+    "name" : "WDERAIR AC",
+    "title": "WDERAIR AC 120mm Powerful Computer Fan with AC Plug, 110V - 240V AC to DC 12V Variable Speed Controller for Electronic Components，PS5，Router，Xbox，Growtent，Modem，Amplifier，Receiver，Biltong Cooling",
+    "asin": "B0B851NZSY",
+    "link": "https://www.amazon.com/Wderair-120mm-Computer-Plug-110V/dp/B0B851NZSY/ref=sr_1_40?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-40",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71QBlpNkxDL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.7,
+    "ratings_total": 67,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 18.99,
+        "currency": "USD",
+        "raw": "$18.99",
+        "asin": "B0B851NZSY",
+        "link": "https://www.amazon.com/Wderair-120mm-Computer-Plug-110V/dp/B0B851NZSY/ref=sr_1_40?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-40"
+      }
+    ],
+    "page": 2,
+    "position_overall": 40
+  },
+  {
+    "position": 39,
+    "name" : "WDERAIR 4x120mm Router Cooling pad",
+    "title": "WDERAIR 4x120mm Router Cooling pad Flat Fan with Variable Speed Controller for DIY Electronics TV Box Cabinet Computer Game Equipment Cooler",
+    "asin": "B0C7C44T6B",
+    "link": "https://www.amazon.com/WDERAIR-Variable-Controller-Electronics-Equipment/dp/B0C7C44T6B/ref=sr_1_41?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-41",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/81uwjLw+KjL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.4,
+    "ratings_total": 4,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 42.99,
+        "currency": "USD",
+        "raw": "$42.99",
+        "asin": "B0C7C44T6B",
+        "link": "https://www.amazon.com/WDERAIR-Variable-Controller-Electronics-Equipment/dp/B0C7C44T6B/ref=sr_1_41?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-41"
+      }
+    ],
+    "page": 2,
+    "position_overall": 41
+  },
+  {
+    "position": 40,
+    "name" : "Cooler Master MasterLiquid",
+    "title": "Cooler Master MasterLiquid 120L Core 120mm Close-Loop AIO Liquid Cooler, White LED Pump, Gen S Coldplate Pump, 120mm PWM, CryoFuze 14W/mK, AMD Ryzen AM5/AM4, Intel LGA1700/1200 (MLW-D12M-A17PK-R1)",
+    "asin": "B0CDF9343N",
+    "link": "https://www.amazon.com/Cooler-Master-MasterLiquid-Close-Loop-MLW-D12M-A17PK-R1/dp/B0CDF9343N/ref=sr_1_42?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-42",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71tBl7omkDL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save $10.00", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 4.6,
+    "ratings_total": 79,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 69.99,
+        "currency": "USD",
+        "raw": "$69.99",
+        "asin": "B0CDF9343N",
+        "link": "https://www.amazon.com/Cooler-Master-MasterLiquid-Close-Loop-MLW-D12M-A17PK-R1/dp/B0CDF9343N/ref=sr_1_42?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-42"
+      }
+    ],
+    "page": 2,
+    "position_overall": 42
+  },
+  {
+    "position": 41,
+    "name" : "Computer Case Fan",
+    "title": "80mm x 25mm PC Computer Case Fan 12V 4Pin PWM FG High CFM Performance Cooling Fan for DIY Gaming CPU GPU Mining Rig Ventilation Exhaust",
+    "asin": "B0BXSJYFMJ",
+    "link": "https://www.amazon.com/Computer-Performance-Cooling-Ventilation-Exhaust/dp/B0BXSJYFMJ/ref=sr_1_43?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-43",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71wEWtqez1L._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.3,
+    "ratings_total": 36,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 12.99,
+        "currency": "USD",
+        "raw": "$12.99",
+        "asin": "B0BXSJYFMJ",
+        "link": "https://www.amazon.com/Computer-Performance-Cooling-Ventilation-Exhaust/dp/B0BXSJYFMJ/ref=sr_1_43?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-43"
+      }
+    ],
+    "page": 2,
+    "position_overall": 43
+  },
+  {
+    "position": 42,
+    "name" : "DARKROCK",
+    "title": "DARKROCK 3-Pack 120mm Black Computer Case Fan High Performance Cooling Low Noise 3-Pin 1200 RPM Hydraulic Bearing Quiet Computer Fans for PC Case",
+    "asin": "B0CD7P3S8Q",
+    "link": "https://www.amazon.com/DARKROCK-Computer-Performance-Cooling-Hydraulic/dp/B0CD7P3S8Q/ref=sr_1_44?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-44",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71+AIdwLgXL._AC_UY218_.jpg",
+    "unit_price": "$3.33/Item",
+    "is_prime": true,
+    "rating": 4.6,
+    "ratings_total": 3,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 9.99,
+        "currency": "USD",
+        "raw": "$9.99",
+        "asin": "B0CD7P3S8Q",
+        "link": "https://www.amazon.com/DARKROCK-Computer-Performance-Cooling-Hydraulic/dp/B0CD7P3S8Q/ref=sr_1_44?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-44"
+      }
+    ],
+    "page": 2,
+    "position_overall": 44
+  },
+  {
+    "position": 43,
+    "name" : "UGREEN USB 3.0",
+    "title": "UGREEN USB 3.0 Switch 2 Computers Sharing USB C & A Devices, 4 Port USB Switcher Sharing Keyboard and Mouse, Printer/Scanner USB Switch Hub for Two Computers with 2 USB3.0 Cables and Remote",
+    "asin": "B0C8MSP967",
+    "link": "https://www.amazon.com/UGREEN-Computers-Sharing-Switcher-Keyboard/dp/B0C8MSP967/ref=sr_1_45?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-45",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71gT7D7aHgL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.5,
+    "ratings_total": 135,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 45.99,
+        "currency": "USD",
+        "raw": "$45.99",
+        "name": "Primary",
+        "is_primary": true
+      }
+    ],
+    "page": 2,
+    "position_overall": 45
+  },
+  {
+    "position": 44,
+    "name" : "SK hynix Platinum",
+    "title": "SK hynix Platinum P41 2TB PCIe NVMe Gen4 M.2 2280 Internal Gaming SSD, Up to 7,000MB/S, Compact SSD Form Factor - Solid State Drive with 176-Layer NAND Flash",
+    "asin": "B09QVD9V7R",
+    "link": "https://www.amazon.com/SK-hynix-Platinum-Internal-Compact/dp/B09QVD9V7R/ref=sr_1_46?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-46",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71RGTZJJuqL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.8,
+    "ratings_total": 2200,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 156.99,
+        "currency": "USD",
+        "raw": "$156.99",
+        "asin": "B09QVD9V7R",
+        "link": "https://www.amazon.com/SK-hynix-Platinum-Internal-Compact/dp/B09QVD9V7R/ref=sr_1_46?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-46"
+      }
+    ],
+    "page": 2,
+    "position_overall": 46
+  },
+  {
+    "position": 45,
+    "name" : "8K Displayport KVM ",
+    "title": "8K Displayport KVM Switch DP for 2 Computers Share 1 Monitor USB 3.0 Switches PC Support 8K@60Hz 4K@144Hz 4 USB Devices Such as Keyboard Mouse Printer with Desktop Wired Controller and 2 USB Cables",
+    "asin": "B0CLNLNF5G",
+    "link": "https://www.amazon.com/Displayport-Computers-Switches-Keyboard-Controller/dp/B0CLNLNF5G/ref=sr_1_47?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-47",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61XZHMRZtIL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save 10%", "text": "with coupon" },
+    "rating": 4.7,
+    "ratings_total": 39,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 49.99,
+        "currency": "USD",
+        "raw": "$49.99",
+        "asin": "B0CLNLNF5G",
+        "link": "https://www.amazon.com/Displayport-Computers-Switches-Keyboard-Controller/dp/B0CLNLNF5G/ref=sr_1_47?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-47"
+      }
+    ],
+    "page": 2,
+    "position_overall": 47
+  },
+  {
+    "position": 46,
+    "name" : "Jstincal Keyboard Brush",
+    "title": "Jstincal Keyboard Brush, Small Nylon Anti Static Brush Computer Keyboard Laptop Cleaning Brush Kit for Electronic Devices Such As Computer Motherboard Fans Dust Removal Cleaning Brush (10 Pcs)",
+    "asin": "B0CD5QP9ZJ",
+    "link": "https://www.amazon.com/Jstincal-Keyboard-Computer-Electronic-Motherboard/dp/B0CD5QP9ZJ/ref=sr_1_48?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-48",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61zWFj5VR5L._AC_UY218_.jpg",
+    "rating": 5,
+    "ratings_total": 3,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 7.99,
+        "currency": "USD",
+        "raw": "$7.99",
+        "asin": "B0CD5QP9ZJ",
+        "link": "https://www.amazon.com/Jstincal-Keyboard-Computer-Electronic-Motherboard/dp/B0CD5QP9ZJ/ref=sr_1_48?keywords=Computer+Components&qid=1699195112&s=pc&sr=1-48"
+      }
+    ],
+    "page": 2,
+    "position_overall": 48
+  },
+  {
+    "position": 47,
+    "name" : "ROOFULL External",
+    "title": "ROOFULL External CD DVD +/-RW Drive with SD Card Reader and USB 3.0+2.0+Type-C Input Ports, CD/DVD Burner Player Reader Writer Optical Disk Drive for Laptop PC Windows 11/10/8/7, Linux, Mac OS",
+    "asin": "B0C53998Q7",
+    "link": "https://www.amazon.com/ROOFULL-External-Reader-Optical-Windows/dp/B0C53998Q7/ref=sr_1_49?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-49",
+    "recent_sales": "500+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61dlBFV8ICL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save 15%", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 4.3,
+    "ratings_total": 1130,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 29.99,
+        "currency": "USD",
+        "raw": "$29.99",
+        "asin": "B0C53998Q7",
+        "link": "https://www.amazon.com/ROOFULL-External-Reader-Optical-Windows/dp/B0C53998Q7/ref=sr_1_49?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-49"
+      }
+    ],
+    "page": 3,
+    "position_overall": 49
+  },
+  {
+    "position": 48,
+    "name" : "8K@60HZ USB 3.0",
+    "title": "8K@60HZ USB 3.0 DisplayPort KVM Switch 1 Monitors 2 Computers, 8K DP 1.4 KVM Switches, with 3 USB 3.0 Port for USB Device, Wired Remote, Share Keyboard Mouse Printer, Plug and Play",
+    "asin": "B0CJTWNB49",
+    "link": "https://www.amazon.com/DisplayPort-Monitors-Computers-Switches-Keyboard/dp/B0CJTWNB49/ref=sr_1_50?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-50",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61fjM8nkbTL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save 20%", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 5,
+    "ratings_total": 1,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 69.99,
+        "currency": "USD",
+        "raw": "$69.99",
+        "asin": "B0CJTWNB49",
+        "link": "https://www.amazon.com/DisplayPort-Monitors-Computers-Switches-Keyboard/dp/B0CJTWNB49/ref=sr_1_50?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-50"
+      }
+    ],
+    "page": 3,
+    "position_overall": 50
+  },
+  {
+    "position": 49,
+    "name" : "Corsair iCUE AF120 RGB Elite",
+    "title": "Corsair iCUE AF120 RGB Elite 120mm PWM Fan - Eight RGB LEDs - AirGuide Technology - Fluid Dynamic Bearing - Zero RPM Fan Mode - CORSAIR iCUE Software Compatible - White",
+    "asin": "B0BQWWZ34G",
+    "link": "https://www.amazon.com/Corsair-iCUE-AF120-Elite-120mm/dp/B0BQWWZ34G/ref=sr_1_51?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-51",
+    "recent_sales": "100+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61EHabHU+TL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.8,
+    "ratings_total": 233,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 24.99,
+        "currency": "USD",
+        "raw": "$24.99",
+        "asin": "B0BQWWZ34G",
+        "link": "https://www.amazon.com/Corsair-iCUE-AF120-Elite-120mm/dp/B0BQWWZ34G/ref=sr_1_51?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-51"
+      }
+    ],
+    "page": 3,
+    "position_overall": 51
+  },
+  {
+    "position": 50,
+    "name" : "Thermalright Peerless Assassin 120 SE",
+    "title": "Thermalright Peerless Assassin 120 SE CPU Air Cooler, Dual Tower 6 Heat Pipe, 120mm TL-C12C PWM CPU Fan, for AMD AM4/AM5/Intel LGA 1700/1150/1151/1200, AGHP Technology, Aluminium Heatsink Cover",
+    "asin": "B09LGY38L4",
+    "link": "https://www.amazon.com/Thermalright-Peerless-SE-Aluminium-Technology/dp/B09LGY38L4/ref=sr_1_52?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-52",
+    "recent_sales": "2K+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71j6VKsz-fL._AC_UY218_.jpg",
+    "bestseller": {
+      "link": "https://www.amazon.com/gp/bestsellers/pc/11036281/ref=sr_bs_3_11036281_1",
+      "category": "Computer CPU Cooling Fans"
+    },
+    "is_prime": true,
+    "rating": 4.6,
+    "ratings_total": 771,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 34.9,
+        "currency": "USD",
+        "raw": "$34.90",
+        "asin": "B09LGY38L4",
+        "link": "https://www.amazon.com/Thermalright-Peerless-SE-Aluminium-Technology/dp/B09LGY38L4/ref=sr_1_52?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-52"
+      }
+    ],
+    "page": 3,
+    "position_overall": 52
+  },
+  {
+    "position": 51,
+    "name" : "DWEII 4-Pack",
+    "title": "DWEII 4-Pack 40mm x10mm DC 5V USB Brushless Cooling Fan, Oil Bearing 4010 Small Computer Fan",
+    "asin": "B09XJV86GJ",
+    "link": "https://www.amazon.com/DWEII-Brushless-Cooling-Bearing-Computer/dp/B09XJV86GJ/ref=sr_1_53?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-53",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/717+tDlTSJL._AC_UY218_.jpg",
+    "unit_price": "$2.25$2.25/Count",
+    "is_prime": true,
+    "rating": 4.3,
+    "ratings_total": 43,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 8.99,
+        "currency": "USD",
+        "raw": "$8.99",
+        "asin": "B09XJV86GJ",
+        "link": "https://www.amazon.com/DWEII-Brushless-Cooling-Bearing-Computer/dp/B09XJV86GJ/ref=sr_1_53?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-53"
+      }
+    ],
+    "page": 3,
+    "position_overall": 53
+  },
+  {
+    "position": 52,
+    "name" : "ORIGBELIE External",
+    "title": "ORIGBELIE External CD DVD Drive, Ultra Slim CD Burner USB 3.0 with 4 USB Ports and 2 TF/SD Card Slots, Optical Disk Drive for Laptop Mac, PC Windows 11/10/8/7 Linux OS",
+    "asin": "B09BC44T8K",
+    "link": "https://www.amazon.com/ORIGBELIE-External-Burner-Optical-Windows/dp/B09BC44T8K/ref=sr_1_54?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-54",
+    "recent_sales": "2K+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71uCgaAfsUL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.3,
+    "ratings_total": 3939,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 29.99,
+        "currency": "USD",
+        "raw": "$29.99",
+        "asin": "B09BC44T8K",
+        "link": "https://www.amazon.com/ORIGBELIE-External-Burner-Optical-Windows/dp/B09BC44T8K/ref=sr_1_54?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-54"
+      }
+    ],
+    "page": 3,
+    "position_overall": 54
+  },
+  {
+    "position": 53,
+    "name" : "Thermalright TL-C12C-S",
+    "title": "Thermalright TL-C12C-S CPU Fan 120mm ARGB Case Cooler Fan, 4pin PWM Silent Computer Fan with S-FDB Bearing Included, up to 1550RPM Cooling Fan",
+    "asin": "B0BVBQJCJX",
+    "link": "https://www.amazon.com/Thermalright-TL-C12C-S-Computer-Bearing-Included/dp/B0BVBQJCJX/ref=sr_1_55?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-55",
+    "recent_sales": "50+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61L9AYxldpL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.1,
+    "ratings_total": 23,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 6.59,
+        "currency": "USD",
+        "raw": "$6.59",
+        "asin": "B0BVBQJCJX",
+        "link": "https://www.amazon.com/Thermalright-TL-C12C-S-Computer-Bearing-Included/dp/B0BVBQJCJX/ref=sr_1_55?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-55"
+      }
+    ],
+    "page": 3,
+    "position_overall": 55
+  },
+  {
+    "position": 54,
+    "name" : "KVM Switch HDMI",
+    "title": "KVM Switch HDMI, Upgraded USB and HDMI KVM Switch for 2 Computers Share Keyboard Mouse Printer to One HD Monitor, Supports 4K@60 Hz, 2 HDMI Cables and 2 USB Cables Included",
+    "asin": "B0CBC1QMHH",
+    "link": "https://www.amazon.com/Upgraded-Computers-Keyboard-Supports-Included/dp/B0CBC1QMHH/ref=sr_1_56?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-56",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61htFrzhn2L._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save 20%", "text": "with coupon" },
+    "is_prime": true,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 29.99,
+        "currency": "USD",
+        "raw": "$29.99",
+        "asin": "B0CBC1QMHH",
+        "link": "https://www.amazon.com/Upgraded-Computers-Keyboard-Supports-Included/dp/B0CBC1QMHH/ref=sr_1_56?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-56"
+      }
+    ],
+    "page": 3,
+    "position_overall": 56
+  },
+  {
+    "position": 55,
+    "name" : "Steetek HDMI KVM",
+    "title": "Steetek HDMI KVM Switch Dual Monitor, 4K@60Hz KVM Switch 2 Port, USB 2.0 KVM Switches, 2 Monitor 2 Computer KVM Switch, HDMI 2.0, HDCP 2.2, Button Switch & Hotkey Switching",
+    "asin": "B0C4HCPBFG",
+    "link": "https://www.amazon.com/Steetek-Monitor-Switches-Computer-Switching/dp/B0C4HCPBFG/ref=sr_1_57?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-57",
+    "availability": { "raw": "Only 14 left in stock - order soon." },
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71azkiRIMsL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save $20.00", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 4.2,
+    "ratings_total": 177,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 69.99,
+        "currency": "USD",
+        "raw": "$69.99",
+        "name": "Primary",
+        "is_primary": true
+      }
+    ],
+    "page": 3,
+    "position_overall": 57
+  },
+  {
+    "position": 56,
+    "name" : "Oddtone Desktop Computer Power",
+    "title": "Oddtone Desktop Computer Power Switch Power Supply Control Adapter Cable 65 inch External PC Power Button ATX Desktop Computer Case Motherboard Switch On Off Power SW Cables",
+    "asin": "B0BXSVQT5T",
+    "link": "https://www.amazon.com/Oddtone-Desktop-Computer-External-Motherboard/dp/B0BXSVQT5T/ref=sr_1_58?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-58",
+    "recent_sales": "100+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61HfSmaGNNL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.7,
+    "ratings_total": 52,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 8.99,
+        "currency": "USD",
+        "raw": "$8.99",
+        "asin": "B0BXSVQT5T",
+        "link": "https://www.amazon.com/Oddtone-Desktop-Computer-External-Motherboard/dp/B0BXSVQT5T/ref=sr_1_58?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-58"
+      }
+    ],
+  
+    "page": 3,
+    "position_overall": 58
+  },
+  {
+    "position": 57,
+    "name" : "CORSAIR iCUE SP120 RGB ELITE",
+    "title": "CORSAIR iCUE SP120 RGB ELITE Performance 120mm PWM Triple Fan Kit with iCUE Lighting Node CORE (Pack of 3), Black, compatible with Radiator",
+    "asin": "B08XJZ82Y8",
+    "link": "https://www.amazon.com/CORSAIR-SP120-Performance-Triple-Lighting/dp/B08XJZ82Y8/ref=sr_1_59?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-59",
+    "recent_sales": "1K+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/81NDvx12zjL._AC_UY218_.jpg",
+    "unit_price": "$23.33$23.33/Item",
+    "is_prime": true,
+    "rating": 4.8,
+    "ratings_total": 6341,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 69.99,
+        "currency": "USD",
+        "raw": "$69.99",
+        "name": "Primary",
+        "is_primary": true
+      }
+    ],
+    "page": 3,
+    "position_overall": 59
+  },
+  {
+    "position": 58,
+    "name" : "HDMI KVM Switch",
+    "title": "HDMI KVM Switch 4 Computers 1 Monitor, Wired Remote & Button Switching, KVM Switches with UHD 4K@30Hz, 3 USB 2.0 Hub, 4 Port KVM Switch for 4 Computers Share 1 Monitor and 1 Set of Keyboard Mouse",
+    "asin": "B0BXRZ4VBQ",
+    "link": "https://www.amazon.com/Computers-Monitor-Switching-Switches-Keyboard/dp/B0BXRZ4VBQ/ref=sr_1_60?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-60",
+    "recent_sales": "100+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71KEfexzU8L._AC_UY218_.jpg",
+    "deal": {
+      "link": "https://www.amazon.com/gp/goldbox/",
+      "badge_text": "Limited time deal"
+    },
+    "unit_price": "$1.21$1.21/Ounce",
+    "is_prime": true,
+    "rating": 4.1,
+    "ratings_total": 110,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 27.19,
+        "currency": "USD",
+        "raw": "$27.19",
+        "name": "Limited time deal",
+        "is_primary": true
+      }
+    ],
+    "page": 3,
+    "position_overall": 60
+  },
+  {
+    "position": 59,
+    "name" : "Pure Wings 2",
+    "title": "be quiet! Pure Wings 2 120mm PWM Premium High Speed Low Noise Cooling Fan | Black | BL081",
+    "asin": "B07MQJGGVW",
+    "link": "https://www.amazon.com/quiet-Wings-high-Speed-BL081-Cooling/dp/B07MQJGGVW/ref=sr_1_61?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-61",
+    "recent_sales": "200+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/51rEZxNAu2L._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.4,
+    "ratings_total": 1638,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 10.9,
+        "currency": "USD",
+        "raw": "$10.90",
+        "asin": "B07MQJGGVW",
+        "link": "https://www.amazon.com/quiet-Wings-high-Speed-BL081-Cooling/dp/B07MQJGGVW/ref=sr_1_61?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-61"
+      }
+    ],
+    "page": 3,
+    "position_overall": 61
+  },
+  {
+    "position": 60,
+    "name" : "External CD DVD Drive",
+    "title": "External CD DVD Drive, USB 3.0 & Type-c Portable CD DVD +/-RW Burner DVD Player for CD ROM Compatible with Laptop Desktop PC Windows Linux OS Apple Mac(Black)",
+    "asin": "B0C81ZZWCB",
+    "link": "https://www.amazon.com/External-Portable-Compatible-Desktop-Windows/dp/B0C81ZZWCB/ref=sr_1_62?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-62",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/51dz0D59vRL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save 30%", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 4.7,
+    "ratings_total": 19,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 17.99,
+        "currency": "USD",
+        "raw": "$17.99",
+        "name": "Primary",
+        "is_primary": true
+      }
+    ],
+    "page": 3,
+    "position_overall": 62
+  },
+  {
+    "position": 61,
+    "name" : "AMD Ryzen™ 7 5800X3D 8-core",
+    "title": "AMD Ryzen™ 7 5800X3D 8-core, 16-Thread Desktop Processor with AMD 3D V-Cache™ Technology",
+    "asin": "B09VCJ2SHD",
+    "link": "https://www.amazon.com/AMD-5800X3D-16-Thread-Processor-Technology/dp/B09VCJ2SHD/ref=sr_1_63?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-63",
+    "recent_sales": "2K+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61Kq99IRdcL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.8,
+    "ratings_total": 3964,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 322.81,
+        "currency": "USD",
+        "raw": "$322.81",
+        "asin": "B09VCJ2SHD",
+        "link": "https://www.amazon.com/AMD-5800X3D-16-Thread-Processor-Technology/dp/B09VCJ2SHD/ref=sr_1_63?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-63"
+      }
+    ],
+    "page": 3,
+    "position_overall": 63
+  },
+  {
+    "position": 62,
+    "name" : "KEYFANCLUB",
+    "title": "KEYFANCLUB 2-Pack 90mm Fan DC 12V Computer Fan 92mm x 92mm x 25mm 2-Pin High Performance Cooling Fan 2000RPM",
+    "asin": "B08KB34DZ5",
+    "link": "https://www.amazon.com/2-Pack-Computer-Performance-Cooling-2000RPM/dp/B08KB34DZ5/ref=sr_1_64?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-64",
+    "recent_sales": "50+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71PcRFKCEtS._AC_UY218_.jpg",
+    "unit_price": "$7.00$7.00/Count",
+    "is_prime": true,
+    "rating": 4.5,
+    "ratings_total": 593,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 13.99,
+        "currency": "USD",
+        "raw": "$13.99",
+        "asin": "B08KB34DZ5",
+        "link": "https://www.amazon.com/2-Pack-Computer-Performance-Cooling-2000RPM/dp/B08KB34DZ5/ref=sr_1_64?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-64"
+      }
+    ],
+    "page": 3,
+    "position_overall": 64
+  },
+  {
+    "position": 63,
+    "name" : "WDERAIR AC",
+    "title": "WDERAIR AC 120mm Powerful Computer Fan with AC Plug, 110V - 240V AC to DC 12V Variable Speed Controller for Electronic Components，PS5，Router，Xbox，Growtent，Modem，Amplifier，Receiver，Biltong Cooling",
+    "asin": "B0B851NZSY",
+    "link": "https://www.amazon.com/Wderair-120mm-Computer-Plug-110V/dp/B0B851NZSY/ref=sr_1_65?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-65",
+    "recent_sales": "50+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71QBlpNkxDL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.7,
+    "ratings_total": 67,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 18.99,
+        "currency": "USD",
+        "raw": "$18.99",
+        "asin": "B0B851NZSY",
+        "link": "https://www.amazon.com/Wderair-120mm-Computer-Plug-110V/dp/B0B851NZSY/ref=sr_1_65?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-65"
+      }
+    ],
+    "page": 3,
+    "position_overall": 65
+  },
+  {
+    "position": 64,
+    "name" : "UGREEN KVM",
+    "title": "UGREEN KVM Switch 1 Monitor 2 Computers, Share 4 USB Ports, HDMI KVM Switch for Keyboard Mouse Printer to One Monitor Support 4K@60Hz, HDR, Include Desktop Controller, 2 USB Cables and 2 HDMI Cables",
+    "asin": "B0CG1W5K7C",
+    "link": "https://www.amazon.com/UGREEN-Monitor-Computers-Keyboard-Controller/dp/B0CG1W5K7C/ref=sr_1_66?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-66",
+    "recent_sales": "100+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/716PtrSKIEL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save 25%", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 4.5,
+    "ratings_total": 18,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 37.99,
+        "currency": "USD",
+        "raw": "$37.99",
+        "asin": "B0CG1W5K7C",
+        "link": "https://www.amazon.com/UGREEN-Monitor-Computers-Keyboard-Controller/dp/B0CG1W5K7C/ref=sr_1_66?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-66"
+      }
+    ],
+    "page": 3,
+    "position_overall": 66
+  },
+  {
+    "position": 65,
+    "name" : "Wathai",
+    "title": "Wathai 120mm x 25mm AC Powered Computer Fan with AC Plug 110V 120V 220V 240V Variable Speed Controller 3V to 12V, for Biltong Box Greenhouse Receiver Amplifier Xbox DVR Playstation Component Cooling",
+    "asin": "B07VYGQPCZ",
+    "link": "https://www.amazon.com/Wathai-Controller-Receiver-Playstation-Component/dp/B07VYGQPCZ/ref=sr_1_67?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-67",
+    "recent_sales": "200+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71LVV4oglwL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.6,
+    "ratings_total": 1381,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 18.99,
+        "currency": "USD",
+        "raw": "$18.99",
+        "asin": "B07VYGQPCZ",
+        "link": "https://www.amazon.com/Wathai-Controller-Receiver-Playstation-Component/dp/B07VYGQPCZ/ref=sr_1_67?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-67"
+      }
+    ],
+    "page": 3,
+    "position_overall": 67
+  },
+  {
+    "position": 66,
+    "name" : "Thermalright TL-C12C",
+    "title": "Thermalright TL-C12C X3 CPU Fan 120mm Case Cooler Fan, 4pin PWM Silent Computer Fan with S-FDB Bearing Included, up to 1550RPM Cooling Fan（3 Quantities）",
+    "asin": "B0BKL1QYP3",
+    "link": "https://www.amazon.com/Thermalright-TL-C12C-X3-Computer-Quantities%EF%BC%89/dp/B0BKL1QYP3/ref=sr_1_68?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-68",
+    "recent_sales": "100+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/612RL8vAL9L._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.6,
+    "ratings_total": 245,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 12.9,
+        "currency": "USD",
+        "raw": "$12.90",
+        "asin": "B0BKL1QYP3",
+        "link": "https://www.amazon.com/Thermalright-TL-C12C-X3-Computer-Quantities%EF%BC%89/dp/B0BKL1QYP3/ref=sr_1_68?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-68"
+      }
+    ],
+    "page": 3,
+    "position_overall": 68
+  },
+  {
+    "position": 67,
+    "name" : "GOPIE ATX Gaming Computer case",
+    "title": "GOPIE ATX Gaming Computer case, P07 Mid-Tower pc Chassis with Dual Chamber Panoramic Tempered Glass, High Performance Airflow - Support 360mm Radiator - Support E-ATX, Micro ATX, Mini-ITX - White",
+    "asin": "B0CGDC93YD",
+    "link": "https://www.amazon.com/GOPIE-P07-Mid-Tower-Panoramic-Performance/dp/B0CGDC93YD/ref=sr_1_69?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-69",
+    "availability": { "raw": "Only 20 left in stock - order soon." },
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/710eRC0gLRL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 5,
+    "ratings_total": 1,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 91.99,
+        "currency": "USD",
+        "raw": "$91.99",
+        "asin": "B0CGDC93YD",
+        "link": "https://www.amazon.com/GOPIE-P07-Mid-Tower-Panoramic-Performance/dp/B0CGDC93YD/ref=sr_1_69?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-69"
+      }
+    ],
+    "page": 3,
+    "position_overall": 69
+  },
+  {
+    "position": 68,
+    "name" : "8K Displayport KVM",
+    "title": "8K Displayport KVM Switch DP for 2 Computers Share 1 Monitor USB 3.0 Switches PC Support 8K@60Hz 4K@144Hz 4 USB Devices Such as Keyboard Mouse Printer with Desktop Wired Controller and 2 USB Cables",
+    "asin": "B0CLNLNF5G",
+    "link": "https://www.amazon.com/Displayport-Computers-Switches-Keyboard-Controller/dp/B0CLNLNF5G/ref=sr_1_70?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-70",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61XZHMRZtIL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save 10%", "text": "with coupon" },
+    "rating": 4.7,
+    "ratings_total": 39,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 49.99,
+        "currency": "USD",
+        "raw": "$49.99",
+        "asin": "B0CLNLNF5G",
+        "link": "https://www.amazon.com/Displayport-Computers-Switches-Keyboard-Controller/dp/B0CLNLNF5G/ref=sr_1_70?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-70"
+      }
+    ],
+    "page": 3,
+    "position_overall": 70
+  },
+  {
+    "position": 69,
+    "name" : "Vetroo V5 Pink CPU Cooler",
+    "title": "Vetroo V5 Pink CPU Cooler, 120mm 5 Heat Pipes Addressable RGB & PWM Air Cooler Processor Cooler for Intel LGA 1700/1200/115X AMD AM5/AM4",
+    "asin": "B09XH8WQD9",
+    "link": "https://www.amazon.com/Vetroo-V5-Cooler-Addressable-Processor/dp/B09XH8WQD9/ref=sr_1_71?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-71",
+    "recent_sales": "50+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/6105LmU-ZwL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save $5.00", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 4.6,
+    "ratings_total": 5396,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 34.5,
+        "currency": "USD",
+        "raw": "$34.50",
+        "asin": "B09XH8WQD9",
+        "link": "https://www.amazon.com/Vetroo-V5-Cooler-Addressable-Processor/dp/B09XH8WQD9/ref=sr_1_71?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-71"
+      }
+    ],
+    "page": 3,
+    "position_overall": 71
+  },
+  {
+    "position": 70,
+    "name" : "Wathai EC Axial",
+    "title": "Wathai EC Axial Fan AC 110V 115V 120V 220V 240V Brushless Cooling Fan 80mm x 25mm for Desktop",
+    "asin": "B07SDDSCY1",
+    "link": "https://www.amazon.com/Wathai-Axial-110V-Brushless-Cooling/dp/B07SDDSCY1/ref=sr_1_72?keywords=Computer+Components&qid=1699195114&s=pc&sr=1-72",
+    "recent_sales": "300+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61eVBz+LNHL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.5,
+    "ratings_total": 1538,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 14.99,
+        "currency": "USD",
+        "raw": "$14.99",
+        "name": "Primary",
+        "is_primary": true
+      }
+    ]
+  },
+  {
+    "position": 71,
+    "name" : "8K HDMI KVM",
+    "title": "8K HDMI KVM Switch 1 Monitors 2 Computers, with 3 USB 3.0 Hub, 8K@60Hz HDMI 2 Port KVM Switch,EDID Adaptive, Plug and Play",
+    "asin": "B0CJ2DN525",
+    "link": "https://www.amazon.com/HDMI-Switch-Monitors-Computers-Adaptive/dp/B0CJ2DN525/ref=sr_1_73?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-73",
+    "recent_sales": "50+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61GznUEUwvL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save 30%", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 4.3,
+    "ratings_total": 2,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 39.99,
+        "currency": "USD",
+        "raw": "$39.99",
+        "asin": "B0CJ2DN525",
+        "link": "https://www.amazon.com/HDMI-Switch-Monitors-Computers-Adaptive/dp/B0CJ2DN525/ref=sr_1_73?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-73"
+      }
+    ],
+    "page": 4,
+    "position_overall": 73
+  },
+  {
+    "position": 72,
+    "name" : "ASUS TUF Gaming TF120 ARGB",
+    "title": "ASUS TUF Gaming TF120 ARGB Chassis Fan 3-Pin Customizable LEDs Blade, Advanced Fluid Dynamic Bearing, 120mm PWM Control, Double-layer LED Array for Computer Case & Liquid Radiator, Black",
+    "asin": "B0B6D3X7NX",
+    "link": "https://www.amazon.com/ASUS-TUF-TF120-ARGB-Anti-vibration/dp/B0B6D3X7NX/ref=sr_1_74?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-74",
+    "recent_sales": "200+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71HN4VGI71L._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.7,
+    "ratings_total": 3738,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 18.99,
+        "currency": "USD",
+        "raw": "$18.99",
+        "asin": "B0B6D3X7NX",
+        "link": "https://www.amazon.com/ASUS-TUF-TF120-ARGB-Anti-vibration/dp/B0B6D3X7NX/ref=sr_1_74?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-74"
+      }
+    ],
+    "page": 4,
+    "position_overall": 74
+  },
+  {
+    "position": 73,
+    "name" : "ASUS TUF Gaming B650-PLUS",
+    "title": "ASUS TUF Gaming B650-PLUS WiFi Socket AM5 (LGA 1718) Ryzen 7000 ATX Motherboard(14 Power Stages, PCIe® 5.0 M.2 Support, DDR5 Memory, 2.5 Gb Ethernet, WiFi 6, USB4® Support and Aura Sync)",
+    "asin": "B0BHN7GGBQ",
+    "link": "https://www.amazon.com/ASUS-TUF-B650-PLUS-Motherboard-Ethernet/dp/B0BHN7GGBQ/ref=sr_1_75?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-75",
+    "recent_sales": "1K+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/81ogi-krqkL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.5,
+    "ratings_total": 1923,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 214.99,
+        "currency": "USD",
+        "raw": "$214.99",
+        "asin": "B0BHN7GGBQ",
+        "link": "https://www.amazon.com/ASUS-TUF-B650-PLUS-Motherboard-Ethernet/dp/B0BHN7GGBQ/ref=sr_1_75?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-75"
+      }
+    ],
+    "page": 4,
+    "position_overall": 75
+  },
+  {
+    "position": 74,
+    "name" : "GDSTIME",
+    "title": "GDSTIME 80mm x 25mm Computer Fan with AC Plug 100V-240V Variable Speed Controller for Modem Terrarium Router Receiver DVR Playstation Xbox Component AV Cabinet Cooling",
+    "asin": "B0C81DW6NG",
+    "link": "https://www.amazon.com/GDSTIME-100V-240V-Controller-Terrarium-Playstation/dp/B0C81DW6NG/ref=sr_1_76?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-76",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71cyfn2KUbL._AC_UY218_.jpg",
+    "is_prime": true,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 17.99,
+        "currency": "USD",
+        "raw": "$17.99",
+        "name": "Primary",
+        "is_primary": true
+      }
+    ],
+    "page": 4,
+    "position_overall": 76
+  },
+  {
+    "position": 75,
+    "name" : "MUSETEX ATX PC Case",
+    "title": "MUSETEX ATX PC Case 4 PWM ARGB Fans Pre-Installed, Mid Tower Gaming PC Case, Double Tempered Glass Tower Computer Case, USB 3.0 x 2, Black, G08",
+    "asin": "B07QKV6HP9",
+    "link": "https://www.amazon.com/MUSETEX-Mid-Tower-Computer-Pre-Installed%EF%BC%8C-Control%EF%BC%88907%EF%BC%89/dp/B07QKV6HP9/ref=sr_1_77?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-77",
+    "recent_sales": "300+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/813d9nbtuRL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.5,
+    "ratings_total": 3316,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 82.99,
+        "currency": "USD",
+        "raw": "$82.99",
+        "name": "Primary",
+        "is_primary": true
+      }
+    ],
+    "page": 4,
+    "position_overall": 77
+  },
+  {
+    "position": 76,
+    "name" : "AC Infinity Ventilation Grille 1",
+    "title": "AC Infinity Ventilation Grille 1, for PC Computer AV Electronic Cabinets, Also Includes Hardware to Mount one 80mm Fan",
+    "asin": "B079PV274Q",
+    "link": "https://www.amazon.com/AC-Infinity-Ventilation-Computer-Electronic/dp/B079PV274Q/ref=sr_1_78?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-78",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/613GY6y-cAL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.8,
+    "ratings_total": 141,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 9.99,
+        "currency": "USD",
+        "raw": "$9.99",
+        "asin": "B079PV274Q",
+        "link": "https://www.amazon.com/AC-Infinity-Ventilation-Computer-Electronic/dp/B079PV274Q/ref=sr_1_78?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-78"
+      }
+    ],
+    "page": 4,
+    "position_overall": 78
+  },
+  {
+    "position": 77,
+    "name" : "Cable Labels",
+    "title": "300pcs Cable Labels, 10 Colors Colorful Cord Labels Self Adhesive Waterproof Stickers for Cables Laser Printer Labeling Various Charger Cords,Cables Handwriting for Computer Wire Cable Management…",
+    "asin": "B0BXN7N4FX",
+    "link": "https://www.amazon.com/Colorful-Adhesive-Waterproof-Handwriting-Management/dp/B0BXN7N4FX/ref=sr_1_79?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-79",
+    "recent_sales": "500+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61RRDCPm1bL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.3,
+    "ratings_total": 126,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 4.98,
+        "currency": "USD",
+        "raw": "$4.98",
+        "asin": "B0BXN7N4FX",
+        "link": "https://www.amazon.com/Colorful-Adhesive-Waterproof-Handwriting-Management/dp/B0BXN7N4FX/ref=sr_1_79?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-79"
+      }
+    ],
+    "page": 4,
+    "position_overall": 79
+  },
+  {
+    "position": 78,
+    "name" : "PCCOOLER",
+    "title": "PCCOOLER 120mm Case Fan 3 Pack ARGB Computer Case Fans Quiet Fans Advanced Lighting Customizations with 7 Colors&10 Lighting Modes - PWM High Performance Cooling Fan for PC Case Computer Fan",
+    "asin": "B0CCP3DM4G",
+    "link": "https://www.amazon.com/PCCOOLER-Computer-Advanced-Lighting-Customizations/dp/B0CCP3DM4G/ref=sr_1_80?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-80",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61l5CKJO8TL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save 10%", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 4.4,
+    "ratings_total": 233,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 23.99,
+        "currency": "USD",
+        "raw": "$23.99",
+        "asin": "B0CCP3DM4G",
+        "link": "https://www.amazon.com/PCCOOLER-Computer-Advanced-Lighting-Customizations/dp/B0CCP3DM4G/ref=sr_1_80?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-80"
+      }
+    ],
+    "page": 4,
+    "position_overall": 80
+  },
+  {
+    "position": 79,
+    "name" : "NINDEJIN Laptop Computer Screw Kit",
+    "title": "NINDEJIN Laptop Computer Screw Kit, M2 M2.5 M3 Countersunk Flat Head Phillips Mini Screws Set, Replacement Screw Electronic Repair Accessories",
+    "asin": "B0B5CY5LY5",
+    "link": "https://www.amazon.com/NINDEJIN-Countersunk-Replacement-Electronic-Accessories/dp/B0B5CY5LY5/ref=sr_1_81?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-81",
+    "recent_sales": "200+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71C9+fMt1GL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.6,
+    "ratings_total": 597,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 7.97,
+        "currency": "USD",
+        "raw": "$7.97",
+        "asin": "B0B5CY5LY5",
+        "link": "https://www.amazon.com/NINDEJIN-Countersunk-Replacement-Electronic-Accessories/dp/B0B5CY5LY5/ref=sr_1_81?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-81"
+      }
+    ],
+    "page": 4,
+    "position_overall": 81
+  },
+  {
+    "position": 80,
+    "name" : "Master TD300 Mesh Micro-ATX",
+    "title": "Cooler Master TD300 Mesh Micro-ATX Tower with Polygonal Mesh Front ana Removable Top Panel, ARGB/PWM Hub Tempered Glass, Dual Sickleflow PWM ARGB Lighting Fans",
+    "asin": "B09JQVHG85",
+    "link": "https://www.amazon.com/Cooler-Master-Micro-ATX-Polygonal-Sickleflow/dp/B09JQVHG85/ref=sr_1_82?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-82",
+    "availability": { "raw": "Only 2 left in stock - order soon." },
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/81jk11GK7EL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.7,
+    "ratings_total": 3908,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 94.99,
+        "currency": "USD",
+        "raw": "$94.99",
+        "name": "Primary",
+        "is_primary": true
+      }
+          ],
+    "page": 4,
+    "position_overall": 82
+        },
+  {
+    "position": 81,
+    "name" : "HDMI KVM",
+    "title": "HDMI KVM Switch 4 Computers 1 Monitor,4 Port Kvm Switches Support UHD4K@30HZ with 3 USB2.0 Port to Share Keyboard Mouse Printer,4 in 1 Out Monitor Switch with Remote Control& Button Switch, Simulatio",
+    "asin": "B0CCYBDXSG",
+    "link": "https://www.amazon.com/Computers-Monitor-Switches-Keyboard-Simulatio/dp/B0CCYBDXSG/ref=sr_1_83?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-83",
+    "recent_sales": "100+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71hxOvIYrEL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save 20%", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 4.5,
+    "ratings_total": 84,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 33.99,
+        "currency": "USD",
+        "raw": "$33.99",
+        "asin": "B0CCYBDXSG",
+        "link": "https://www.amazon.com/Computers-Monitor-Switches-Keyboard-Simulatio/dp/B0CCYBDXSG/ref=sr_1_83?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-83"
+      }
+    ],
+    "page": 4,
+    "position_overall": 83
+  },
+  {
+    "position": 82,
+    "name" : "ROOFULL External",
+    "title": "ROOFULL External CD DVD +/-RW Drive with SD Card Reader and USB 3.0+2.0+Type-C Input Ports, CD/DVD Burner Player Reader Writer Optical Disk Drive for Laptop PC Windows 11/10/8/7, Linux, Mac OS",
+    "asin": "B0C53998Q7",
+    "link": "https://www.amazon.com/ROOFULL-External-Reader-Optical-Windows/dp/B0C53998Q7/ref=sr_1_84?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-84",
+    "recent_sales": "500+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61dlBFV8ICL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save 15%", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 4.3,
+    "ratings_total": 1130,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 29.99,
+        "currency": "USD",
+        "raw": "$29.99",
+        "asin": "B0C53998Q7",
+        "link": "https://www.amazon.com/ROOFULL-External-Reader-Optical-Windows/dp/B0C53998Q7/ref=sr_1_84?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-84"
+      }
+    ],
+    "page": 4,
+    "position_overall": 84
+  },
+  {
+    "position": 83,
+    "name" : "HDMI KVM Switch 2",
+    "title": "HDMI KVM Switch 2 Monitors 2 Computers,2 Port Dual Monitor Kvm Switcher for 2 Computers to Share 4 USB 2.0 Hub,UHD 4K@60Hz Resolution Downward Compatible,EDID Emulators",
+    "asin": "B0CCHQC89C",
+    "link": "https://www.amazon.com/Monitors-Computers-Resolution-Compatible-Emulators/dp/B0CCHQC89C/ref=sr_1_85?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-85",
+    "recent_sales": "100+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/712UScRvdqL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save $15.00", "text": "with coupon" },
+    "unit_price": "$2.50/Ounce",
+    "is_prime": true,
+    "rating": 4.4,
+    "ratings_total": 156,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 65.97,
+        "currency": "USD",
+        "raw": "$65.97",
+        "asin": "B0CCHQC89C",
+        "link": "https://www.amazon.com/Monitors-Computers-Resolution-Compatible-Emulators/dp/B0CCHQC89C/ref=sr_1_85?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-85"
+      }
+    ],
+    "page": 4,
+    "position_overall": 85
+  },
+  {
+    "position": 84,
+    "name" : "suckoo Replacement DMS",
+    "title": "suckoo Replacement DMS 59pin to 2 Port HDMI Cable 1920x1080p Compatible Computer Host Graphics Card External HDMI Monitor TV Projector Adapter Converter Splitter 25cm",
+    "asin": "B0C6XZB3FT",
+    "link": "https://www.amazon.com/suckoo-Replacement-1920x1080p-Compatible-Projector/dp/B0C6XZB3FT/ref=sr_1_86?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-86",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/51oUrhXM0UL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save 30%", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 5,
+    "ratings_total": 1,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 15.75,
+        "currency": "USD",
+        "raw": "$15.75",
+        "asin": "B0C6XZB3FT",
+        "link": "https://www.amazon.com/suckoo-Replacement-1920x1080p-Compatible-Projector/dp/B0C6XZB3FT/ref=sr_1_86?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-86"
+      }
+    ],
+    "page": 4,
+    "position_overall": 86
+  },
+  {
+    "position": 85,
+    "name" : "Lovelysp Fan Buckles",
+    "title": "Lovelysp Fan Buckles CPU Heatsink Fan Buckles 12CM Wire Buckle Lower Hook Type Fixing Clips Computer Cooling Accessories -4PCS",
+    "asin": "B0CBGJXK4J",
+    "link": "https://www.amazon.com/Lovelysp-Buckles-Heatsink-Computer-Accessories/dp/B0CBGJXK4J/ref=sr_1_87?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-87",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/51Wj4LuB6eL._AC_UY218_.jpg",
+    "unit_price": "$2.00/Item",
+    "is_prime": true,
+    "rating": 5,
+    "ratings_total": 2,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 7.99,
+        "currency": "USD",
+        "raw": "$7.99",
+        "asin": "B0CBGJXK4J",
+        "link": "https://www.amazon.com/Lovelysp-Buckles-Heatsink-Computer-Accessories/dp/B0CBGJXK4J/ref=sr_1_87?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-87"
+      }
+    ],
+    "page": 4,
+    "position_overall": 87
+  },
+  {
+    "position": 86,
+    "name" : "GDSTIME",
+    "title": "GDSTIME Dual 120mm 5V USB Fans, 102CFM Big Airflow Fan Cooling for Router TV Box Micro Computer and Other Electronics",
+    "asin": "B07TMBSN4G",
+    "link": "https://www.amazon.com/GDSTIME-Airflow-Cooling-Computer-Electronics/dp/B07TMBSN4G/ref=sr_1_88?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-88",
+    "recent_sales": "50+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71en4JCCteL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.4,
+    "ratings_total": 689,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 22.99,
+        "currency": "USD",
+        "raw": "$22.99",
+        "name": "Primary",
+        "is_primary": true
+      }
+    ],
+    "page": 4,
+    "position_overall": 88
+  },
+  {
+    "position": 87,
+    "name" : "Otcboimo PC Power Switch",
+    "title": "Otcboimo PC Power Switch, Computer Remote Switch Button Boot Card Desktop Computer On Off Switch Button Card Work with Apple Homekit(Contains a Power SW Cable)",
+    "asin": "B0CFX44C96",
+    "link": "https://www.amazon.com/Otcboimo-Computer-Desktop-Homekit-Contains/dp/B0CFX44C96/ref=sr_1_89?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-89",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/51q0sE-CVRL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 3.9,
+    "ratings_total": 7,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 15.99,
+        "currency": "USD",
+        "raw": "Join Prime to buy this item at $15.99"
+      },
+      { "symbol": "$", "value": 19.99, "currency": "USD", "raw": "$19.99" }
+    ],
+    "page": 4,
+    "position_overall": 89
+  },
+  {
+    "position": 88,
+    "name" : "Kingwin Powered USB Hub",
+    "title": "Kingwin Powered USB Hub 3.0 w/ 1 USB-C Port, SD Card Reader & Micro SD Card Reader - Sata Power Port w/Lightning Speed Data Transfer Up to 5Gbps - 5.25\" Computer Case Front Bay, black (KW525-3U3CR)",
+    "asin": "B01K0RPTN0",
+    "link": "https://www.amazon.com/Kingwin-Powered-USB-C-Reader-Micro/dp/B01K0RPTN0/ref=sr_1_90?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-90",
+    "recent_sales": "50+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/51UvWx8ed6L._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 3.9,
+    "ratings_total": 1851,
+    "is_small_business": true,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 37.99,
+        "currency": "USD",
+        "raw": "$37.99",
+        "asin": "B01K0RPTN0",
+        "link": "https://www.amazon.com/Kingwin-Powered-USB-C-Reader-Micro/dp/B01K0RPTN0/ref=sr_1_90?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-90"
+      }
+    ],
+    "page": 4,
+    "position_overall": 90
+  },
+  {
+    "position": 89,
+    "name" : "iPower Quiet Cooling Fan",
+    "title": "iPower Quiet Cooling Fan 92mm Dual USB Case Fan with Speed Controller for Receiver DVR/Playstation/Xbox/Computer Cabinet Cooling",
+    "asin": "B0C8HNMJCM",
+    "link": "https://www.amazon.com/iPower-Controller-Receiver-Playstation-Computer/dp/B0C8HNMJCM/ref=sr_1_91?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-91",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71hQBOdqnwL._AC_UY218_.jpg",
+    "rating": 4.4,
+    "ratings_total": 31,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 15.99,
+        "currency": "USD",
+        "raw": "$15.99",
+        "asin": "B0C8HNMJCM",
+        "link": "https://www.amazon.com/iPower-Controller-Receiver-Playstation-Computer/dp/B0C8HNMJCM/ref=sr_1_91?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-91"
+      }
+    ],
+    "page": 4,
+    "position_overall": 91
+  },
+  {
+    "position": 90,
+    "name" : "CableCreation",
+    "title": "CableCreation DVI to HDMI Cable, 6.6ft HDMI Male to DVI-D Male Bi-Directional Adapter Cable, HDMI to DVI-D 24+1 High Speed Cable Support 1080P HD for Raspberry Pi, Xbox One, PS5, Blue-ray",
+    "asin": "B01FM51TT8",
+    "link": "https://www.amazon.com/CableCreation-Directional-Raspberry-Graphics-Blue-ray/dp/B01FM51TT8/ref=sr_1_92?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-92",
+    "recent_sales": "50+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/612IuecCaCL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.6,
+    "ratings_total": 7549,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 9.99,
+        "currency": "USD",
+        "raw": "$9.99",
+        "name": "Primary",
+        "is_primary": true
+      }
+       ],   "page": 4,
+    "position_overall": 92
+  },
+  {
+    "position": 91,
+    "name" : "MELIFE",
+    "title": "MELIFE 2Pcs 5V USB Cooling Fan Cooler PC Computer Case Router Set-top Box Cooler Fan.",
+    "asin": "B0C3L8823P",
+    "link": "https://www.amazon.com/MELIFE-Cooling-Cooler-Computer-Set-top/dp/B0C3L8823P/ref=sr_1_93?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-93",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71NDexurvTL._AC_UY218_.jpg",
+    "is_prime": true,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 8.99,
+        "currency": "USD",
+        "raw": "$8.99",
+        "asin": "B0C3L8823P",
+        "link": "https://www.amazon.com/MELIFE-Cooling-Cooler-Computer-Set-top/dp/B0C3L8823P/ref=sr_1_93?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-93"
+      }
+    ],
+    "page": 4,
+    "position_overall": 93
+  },
+  {
+    "position": 92,
+    "name" : "DisplayPort KVM",
+    "title": "8K USB 3.0 DisplayPort KVM Switch Dual Monitor 2 Computers, 8K@60Hz KVM Switch DP 2 in 2 Out with Audio Microphone and 3 USB 3.0 Ports, 2 Computers 2 Monitors Keyboard Mouse Switcher",
+    "asin": "B0CJXMC6CD",
+    "link": "https://www.amazon.com/DisplayPort-Computers-Microphone-Monitors-Keyboard/dp/B0CJXMC6CD/ref=sr_1_94?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-94",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/81oJ+qFYXuL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save 15%", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 4.9,
+    "ratings_total": 12,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 99.99,
+        "currency": "USD",
+        "raw": "$99.99",
+        "asin": "B0CJXMC6CD",
+        "link": "https://www.amazon.com/DisplayPort-Computers-Microphone-Monitors-Keyboard/dp/B0CJXMC6CD/ref=sr_1_94?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-94"
+      }
+    ],
+  
+    "page": 4,
+    "position_overall": 94
+  },
+  {
+    "position": 93,
+    "name" : "SAMSUNG 8GB DDR4 PC4-19200",
+    "title": "SAMSUNG 8GB DDR4 PC4-19200, 2400MHZ, 288 PIN DIMM, 1.2V, CL 15 desktop RAM MEMORY MODULE M378A1K43CB2-CRC",
+    "asin": "B072Q1G1XH",
+    "link": "https://www.amazon.com/SAMSUNG-PC4-19200-2400MHZ-desktop-M378A1K43CB2-CRC/dp/B072Q1G1XH/ref=sr_1_95?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-95",
+    "recent_sales": "50+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61agne5N-GL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save 6%", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 4.7,
+    "ratings_total": 246,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 18,
+        "currency": "USD",
+        "raw": "$18.00",
+        "asin": "B072Q1G1XH",
+        "link": "https://www.amazon.com/SAMSUNG-PC4-19200-2400MHZ-desktop-M378A1K43CB2-CRC/dp/B072Q1G1XH/ref=sr_1_95?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-95"
+      }
+    ],
+    "page": 4,
+    "position_overall": 95
+  },
+  {
+    "position": 94,
+    "name" : "4K KVM Switch HDMI 2 Port Box",
+    "title": "4K KVM Switch HDMI 2 Port Box, USB and HDMI Switch for 2 Computers Share Keyboard Mouse Printer and one HD Monitor, Support UHD 4K@30Hz, with Remote Controller and 2 KVM Cables",
+    "asin": "B0C77TFXG1",
+    "link": "https://www.amazon.com/Computers-Keyboard-Printer-Monitor-Controller/dp/B0C77TFXG1/ref=sr_1_96?keywords=Computer+Components&qid=1699195117&s=pc&sr=1-96",
+    "recent_sales": "100+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/614ytU4B79L._AC_UY218_.jpg",
+    "deal": {
+      "link": "https://www.amazon.com/gp/goldbox/",
+      "badge_text": "Limited time deal"
+    },
+    "is_prime": true,
+    "rating": 4,
+    "ratings_total": 105,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 13.99,
+        "currency": "USD",
+        "raw": "$13.99",
+        "name": "Limited time deal",
+        "is_primary": true
+      }
+
+    ],
+    "page": 4,
+    "position_overall": 96
+  },
+  {
+    "position": 95,
+    "name" : "Video Capture Card Device",
+    "title": "Capture Card, USB Video Capture Card Device, Audio Video Converter Grabber for RCA to USB-Convert VHS Mini DV VCR Hi8 DVD to Digital, for PC TV Tape Player Camcorder, MAC Windows Vista Compatible",
+    "asin": "B0CB6BW6X4",
+    "link": "https://www.amazon.com/Capture-Converter-USB-Convert-Camcorder-Compatible/dp/B0CB6BW6X4/ref=sr_1_97?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-97",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61uSugJQq5S._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4,
+    "ratings_total": 69,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 9.99,
+        "currency": "USD",
+        "raw": "$9.99",
+        "name": "Save 17%",
+        "is_primary": true
+      }
+
+      ],
+    "page": 5,
+    "position_overall": 97
+  },
+  {
+    "position": 96,
+    "name" : "ASUS 24x DVD-RW Serial-ATA Internal",
+    "title": "ASUS 24x DVD-RW Serial-ATA Internal OEM Optical Drive DRW-24B1ST Black(user guide is included)",
+    "asin": "B0033Z2BAQ",
+    "link": "https://www.amazon.com/Asus-Serial-ATA-Internal-DRW-24B1ST-included/dp/B0033Z2BAQ/ref=sr_1_98?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-98",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61SHnK1hFsL._AC_UY218_.jpg",
+    "bestseller": {
+      "link": "https://www.amazon.com/gp/bestsellers/pc/172480/ref=sr_bs_1_172480_1",
+      "category": "Internal CD & DVD Drives"
+    },
+    "is_prime": true,
+    "rating": 4.6,
+    "ratings_total": 9578,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 24.99,
+        "currency": "USD",
+        "raw": "$24.99",
+        "asin": "B0033Z2BAQ",
+        "link": "https://www.amazon.com/Asus-Serial-ATA-Internal-DRW-24B1ST-included/dp/B0033Z2BAQ/ref=sr_1_98?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-98"
+      }
+    ],
+    "page": 5,
+    "position_overall": 98
+  },
+  {
+    "position": 97,
+    "name" : "ASUS ROG Strix B760-I Gaming WiFi",
+    "title": "ASUS ROG Strix B760-I Gaming WiFi 6E Intel® B760(13th and 12th Gen)LGA 1700 mini-ITX motherboard,8 + 1 power stages,DDR5 up to 7600 MT/s, PCIe 5.0,2xM.2 slots,USB 3.2 Gen 2x2 Type-C,Aura Sync RGB",
+    "asin": "B0BR8TVLPL",
+    "link": "https://www.amazon.com/ASUS-ROG-B760-I-mini-ITX-motherboard/dp/B0BR8TVLPL/ref=sr_1_99?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-99",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/810xRriwz7L._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.3,
+    "ratings_total": 169,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 199.03,
+        "currency": "USD",
+        "raw": "$199.03",
+        "name": "Primary",
+        "is_primary": true
+      }
+    ],
+    "page": 5,
+    "position_overall": 99
+  },
+  {
+    "position": 98,
+    "name" : "HDMI KVM Switch 4",
+    "title": "HDMI KVM Switch 4 Computers 1 Monitor,4 Port Kvm Switches Support UHD4K@30HZ with 3 USB2.0 Port to Share Keyboard Mouse Printer,4 in 1 Out Monitor Switch with Remote Control& Button Switch, Simulatio",
+    "asin": "B0CCYBDXSG",
+    "link": "https://www.amazon.com/Computers-Monitor-Switches-Keyboard-Simulatio/dp/B0CCYBDXSG/ref=sr_1_100?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-100",
+    "recent_sales": "100+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71hxOvIYrEL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save 20%", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 4.5,
+    "ratings_total": 84,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 33.99,
+        "currency": "USD",
+        "raw": "$33.99",
+        "asin": "B0CCYBDXSG",
+        "link": "https://www.amazon.com/Computers-Monitor-Switches-Keyboard-Simulatio/dp/B0CCYBDXSG/ref=sr_1_100?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-100"
+      }
+    ],
+    "page": 5,
+    "position_overall": 100
+  },
+  {
+    "position": 99,
+    "name" : "Neukniy",
+    "title": "Neukniy 120mm Computer Fan with AC Plug, 110V 120V 220V 240V AC Variable Speed Fan AC Powerful Fan for Mushroom Growing, Receiver, Amplifier, Biltong Box, X-Box, Sound System Cooling",
+    "asin": "B0BHT2WL41",
+    "link": "https://www.amazon.com/Neukniy-Computer-Variable-Powerful-Amplifier/dp/B0BHT2WL41/ref=sr_1_101?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-101",
+    "availability": { "raw": "Only 17 left in stock - order soon." },
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71hU1LPO3DL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save 10%", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 4.3,
+    "ratings_total": 151,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 18.99,
+        "currency": "USD",
+        "raw": "$18.99",
+        "asin": "B0BHT2WL41",
+        "link": "https://www.amazon.com/Neukniy-Computer-Variable-Powerful-Amplifier/dp/B0BHT2WL41/ref=sr_1_101?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-101"
+      }
+    ],
+    "page": 5,
+    "position_overall": 101
+  },
+  {
+    "position": 100,
+    "name" : "8K USB 3.0 DisplayPort KVM Switch ",
+    "title": "8K USB 3.0 DisplayPort KVM Switch Dual Monitor 2 Computers, 8K@60Hz KVM Switch DP 2 in 2 Out with Audio Microphone and 3 USB 3.0 Ports, 2 Computers 2 Monitors Keyboard Mouse Switcher",
+    "asin": "B0CJXMC6CD",
+    "link": "https://www.amazon.com/DisplayPort-Computers-Microphone-Monitors-Keyboard/dp/B0CJXMC6CD/ref=sr_1_102?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-102",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/81oJ+qFYXuL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save 15%", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 4.9,
+    "ratings_total": 12,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 99.99,
+        "currency": "USD",
+        "raw": "$99.99",
+        "asin": "B0CJXMC6CD",
+        "link": "https://www.amazon.com/DisplayPort-Computers-Microphone-Monitors-Keyboard/dp/B0CJXMC6CD/ref=sr_1_102?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-102"
+      }
+    ],
+    "page": 5,
+    "position_overall": 102
+  },
+  {
+    "position": 101,
+    "name" : "ASUS TUF Gaming LC 240",
+    "title": "ASUS TUF Gaming LC 240 ARGB All-in-one Liquid CPU Cooler (Aura Sync, Dual TUF 120mm ARGB Radiator Fans with Fan Blade Groove Design)",
+    "asin": "B09KT32RWD",
+    "link": "https://www.amazon.com/TUF-LC-240-ARGB-Radiator/dp/B09KT32RWD/ref=sr_1_103?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-103",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71LBeZJ0IPL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.6,
+    "ratings_total": 637,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 119.99,
+        "currency": "USD",
+        "raw": "$119.99",
+        "asin": "B09KT32RWD",
+        "link": "https://www.amazon.com/TUF-LC-240-ARGB-Radiator/dp/B09KT32RWD/ref=sr_1_103?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-103"
+      }
+    ],
+    "page": 5,
+    "position_overall": 103
+  },
+  {
+    "position": 102,
+    "name" : "Eiovnur Computer",
+    "title": "Eiovnur Computer Fan with AC Plug, Variable Speed Fan, 120mm AC Fan 110V 120V 220V 240V, for Terrarium Receiver Amplifier Xbox DVR Component Cooling",
+    "asin": "B0BJQ4YCCP",
+    "link": "https://www.amazon.com/Eiovnur-Computer-Terrarium-Amplifier-Component/dp/B0BJQ4YCCP/ref=sr_1_104?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-104",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/714aGvEJmpL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.5,
+    "ratings_total": 54,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 18.99,
+        "currency": "USD",
+        "raw": "$18.99",
+        "asin": "B0BJQ4YCCP",
+        "link": "https://www.amazon.com/Eiovnur-Computer-Terrarium-Amplifier-Component/dp/B0BJQ4YCCP/ref=sr_1_104?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-104"
+      }
+    ],
+    "page": 5,
+    "position_overall": 104
+  },
+  {
+    "position": 103,
+    "name" : "External CD DVD Drive",
+    "title": "External CD DVD Drive, USB 3.0 & Type-c Portable CD DVD +/-RW Burner DVD Player for CD ROM Compatible with Laptop Desktop PC Windows Linux OS Apple Mac(Black)",
+    "asin": "B0C81ZZWCB",
+    "link": "https://www.amazon.com/External-Portable-Compatible-Desktop-Windows/dp/B0C81ZZWCB/ref=sr_1_105?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-105",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/51dz0D59vRL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save 30%", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 4.7,
+    "ratings_total": 19,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 17.99,
+        "currency": "USD",
+        "raw": "$17.99",
+        "name": "Primary",
+        "is_primary": true
+      }
+    ],
+    "page": 5,
+    "position_overall": 105
+  },
+  {
+    "position": 104,
+    "name" : "The Lord of the Tools",
+    "title": "The Lord of the Tools 100PCS Computer Case Fan Screws Kit PC Fan Screws Housing Radiator Screws Computer Chassis Fan Components 50PCS #6-32x30mm & 50PCS M5x10mm Black",
+    "asin": "B0BRN5RDRY",
+    "link": "https://www.amazon.com/Lord-Tools-Computer-Components-6-32x30mm/dp/B0BRN5RDRY/ref=sr_1_106?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-106",
+    "availability": { "raw": "Only 8 left in stock - order soon." },
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61HjcfvMOlL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.5,
+    "ratings_total": 4,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 9.49,
+        "currency": "USD",
+        "raw": "$9.49",
+        "name": "Primary",
+        "is_primary": true
+      }
+    ],
+    "page": 5,
+    "position_overall": 107
+  },
+  {
+    "position": 105,
+    "name" : "Computer Case Fan",
+    "title": "80mm x 25mm PC Computer Case Fan 12V 4Pin PWM FG High CFM Performance Cooling Fan for DIY Gaming CPU GPU Mining Rig Ventilation Exhaust",
+    "asin": "B0BXSJYFMJ",
+    "link": "https://www.amazon.com/Computer-Performance-Cooling-Ventilation-Exhaust/dp/B0BXSJYFMJ/ref=sr_1_107?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-107",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71wEWtqez1L._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.3,
+    "ratings_total": 36,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 12.99,
+        "currency": "USD",
+        "raw": "$12.99",
+        "asin": "B0BXSJYFMJ",
+        "link": "https://www.amazon.com/Computer-Performance-Cooling-Ventilation-Exhaust/dp/B0BXSJYFMJ/ref=sr_1_107?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-107"
+      }
+    ],
+    "page": 5,
+    "position_overall": 107
+  },
+  {
+    "position": 106,
+    "name" : "POINWER 850 Watt Power Supply",
+    "title": "POINWER 850 Watt Power Supply 80 Plus Gold - Silent 12cm RGB Fan, Full Modular, Active PFC, 105°C Capacitor - High-Performance 850W PSU for Gaming & ATX Case Computers",
+    "asin": "B0BYZ1PL2N",
+    "link": "https://www.amazon.com/POINWER-Watt-Power-Supply-Plus/dp/B0BYZ1PL2N/ref=sr_1_108?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-108",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/81FkbwoSacL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save 20%", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 5,
+    "ratings_total": 4,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 98.99,
+        "currency": "USD",
+        "raw": "$98.99",
+        "name": "Primary",
+        "is_primary": true
+      }
+    ],
+    "page": 5,
+    "position_overall": 108
+  },
+  {
+    "position": 107,
+    "name" : "Blower Cooling Fan",
+    "title": "2pcs Blower Cooling Fan 120x25mm 110V 220V AC Powered Cooling Fan Dual-Ball Bearings 3 to 12V Speed Controller Fan for Receiver DVR Compatible with Playstation Xbox Component",
+    "asin": "B0B53427RT",
+    "link": "https://www.amazon.com/Dual-Ball-Controller-Compatible-Playstation-Component/dp/B0B53427RT/ref=sr_1_109?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-109",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71Ef--fX0TL._AC_UY218_.jpg",
+    "unit_price": "$8.50/Item",
+    "is_prime": true,
+    "rating": 4.1,
+    "ratings_total": 14,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 16.99,
+        "currency": "USD",
+        "raw": "$16.99",
+        "asin": "B0B53427RT",
+        "link": "https://www.amazon.com/Dual-Ball-Controller-Compatible-Playstation-Component/dp/B0B53427RT/ref=sr_1_109?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-109"
+      }
+    ],
+    "page": 5,
+    "position_overall": 109
+  },
+  {
+    "position": 108,
+    "name" : "GAMEMAX 1300W Power Supply",
+    "title": "GAMEMAX 1300W Power Supply, ATX 3.0 & PCIE 5.0 Ready, 80+ Platinum Certified, Addressable RGB with 5V Motherboard Sync, 100% Japanese Capacitors, Fully Modular, RGB-1300",
+    "asin": "B0BCKHHVYW",
+    "link": "https://www.amazon.com/GAMEMAX-Addressable-Motherboard-105%C2%B0C-Rated-Capacitors/dp/B0BCKHHVYW/ref=sr_1_110?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-110",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71w9AazgUUL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save $30.00", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 4.5,
+    "ratings_total": 6763,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 199.99,
+        "currency": "USD",
+        "raw": "$199.99",
+        "name": "Primary",
+        "is_primary": true
+      }
+    ],
+    "page": 5,
+    "position_overall": 110
+  },
+  {
+    "position": 109,
+    "name" : "Intel® Core™ i9-14900KF",
+    "title": "Intel® Core™ i9-14900KF New Gaming Desktop Processor 24 cores (8 P-cores + 16 E-cores) - Unlocked",
+    "asin": "B0CGJDBCTK",
+    "link": "https://www.amazon.com/Intel%C2%AE-i9-14900KF-Desktop-Processor-P-cores/dp/B0CGJDBCTK/ref=sr_1_111?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-111",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61jRMCAX4CL._AC_UY218_.jpg",
+    "rating": 4.3,
+    "ratings_total": 35,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 555.99,
+        "currency": "USD",
+        "raw": "$555.99",
+        "asin": "B0CGJDBCTK",
+        "link": "https://www.amazon.com/Intel%C2%AE-i9-14900KF-Desktop-Processor-P-cores/dp/B0CGJDBCTK/ref=sr_1_111?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-111"
+      }
+    ],
+    "page": 5,
+    "position_overall": 111
+  },
+  {
+    "position": 110,
+    "name" : "ASUS TUF Gaming TF120 ARGB",
+    "title": "ASUS TUF Gaming TF120 ARGB Chassis Fan 3-Pin Customizable LEDs Blade, Advanced Fluid Dynamic Bearing, 120mm PWM Control, Double-layer LED Array for Computer Case & Liquid Radiator, Black",
+    "asin": "B0B6D3X7NX",
+    "link": "https://www.amazon.com/ASUS-TUF-TF120-ARGB-Anti-vibration/dp/B0B6D3X7NX/ref=sr_1_112?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-112",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/71HN4VGI71L._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.7,
+    "ratings_total": 3738,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 18.99,
+        "currency": "USD",
+        "raw": "$18.99",
+        "asin": "B0B6D3X7NX",
+        "link": "https://www.amazon.com/ASUS-TUF-TF120-ARGB-Anti-vibration/dp/B0B6D3X7NX/ref=sr_1_112?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-112"
+      }
+    ],
+    "page": 5,
+    "position_overall": 112
+  },
+  {
+    "position": 111,
+    "name" : "External CD/DVD Drive",
+    "title": "External CD/DVD Drive for Laptop USB 3.0 Portable CD DVD +/-RW Burner DVD/CD Player or ROM Reader Rewriter Writer Disk Drive Compatible with Desktop PC Windows Apple Mac Pro MacBook Linux",
+    "asin": "B07DLRG9VH",
+    "link": "https://www.amazon.com/Rioddas-External-Portable-Rewriter-Superdrive/dp/B07DLRG9VH/ref=sr_1_114?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-114",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61Q9TwmzKNL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.3,
+    "ratings_total": 36373,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 19.99,
+        "currency": "USD",
+        "raw": "$19.99",
+        "name": "Primary",
+        "is_primary": true
+      }
+       ],
+    "page": 5,
+    "position_overall": 113
+      },
+  {
+    "position": 112,
+    "name" : "Freenove Ultimate Starter Kit",
+    "title": "Freenove Ultimate Starter Kit for ESP32-WROVER (Included) (Compatible with Arduino IDE), Onboard Camera Wireless, Python C, 814-Page Detailed Tutorial, 240 Items, 127 Projects",
+    "asin": "B0CJJJ7BCY",
+    "link": "https://www.amazon.com/Freenove-Ultimate-ESP32-WROVER-Included-Compatible/dp/B0CJJJ7BCY/ref=sr_1_115?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-115",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/81HYow-MQAL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.6,
+    "ratings_total": 318,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 56.95,
+        "currency": "USD",
+        "raw": "$56.95",
+        "asin": "B0CJJJ7BCY",
+        "link": "https://www.amazon.com/Freenove-Ultimate-ESP32-WROVER-Included-Compatible/dp/B0CJJJ7BCY/ref=sr_1_115?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-115"
+      }
+    ],
+    "page": 5,
+    "position_overall": 115
+  },
+  {
+    "position": 113,
+    "name" : "Libre Computer Project AML-S905X-CC",
+    "title": "Libre Computer Project AML-S905X-CC Le Potato 64-bit Single Board Computer Pi 3 Alternative (2GB 2-Pack)",
+    "asin": "B0BDQV2J7G",
+    "link": "https://www.amazon.com/Libre-Computer-Project-AML-S905X-CC-Alternative/dp/B0BDQV2J7G/ref=sr_1_116?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-116",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/710ObzRJ5aL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.2,
+    "ratings_total": 952,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 69,
+        "currency": "USD",
+        "raw": "$69.00",
+        "asin": "B0BDQV2J7G",
+        "link": "https://www.amazon.com/Libre-Computer-Project-AML-S905X-CC-Alternative/dp/B0BDQV2J7G/ref=sr_1_116?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-116"
+      }
+    ],
+    "page": 5,
+    "position_overall": 116
+  },
+  {
+    "position": 114,
+    "name" : "StarTech.com Expansion",
+    "title": "StarTech.com Expansion Slot Rear Exhaust Cooling Fan with LP4 Connector (FANCASE), Black, 1 Count (Pack of 1)",
+    "asin": "B0000510SS",
+    "link": "https://www.amazon.com/StarTech-com-Expansion-Exhaust-Cooling-Connector/dp/B0000510SS/ref=sr_1_117?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-117",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/7164xxEED+L._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.4,
+    "ratings_total": 1816,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 8.22,
+        "currency": "USD",
+        "raw": "$8.22",
+        "name": "Primary",
+        "is_primary": true
+      }
+    ],
+    "page": 5,
+    "position_overall": 117
+  },
+  {
+    "position": 115,
+    "name" : "Switch Selector",
+    "title": "USB 3.0 Switch Selector 4 Port KVM Switches 2 Computers Sharing 4 USB Devices Peripheral Switcher Box Hub for Mouse Keyboard Scanner Printer with Wire-Desktop Controller and 2 Pack USB 3.0 Cable",
+    "asin": "B0CJ9KVM4G",
+    "link": "https://www.amazon.com/Selector-Computers-Peripheral-Wire-Desktop-Controller/dp/B0CJ9KVM4G/ref=sr_1_118?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-118",
+    "recent_sales": "50+ bought in past month",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61pWHj0U4+L._AC_UY218_.jpg",
+    "rating": 3.8,
+    "ratings_total": 50,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 13.99,
+        "currency": "USD",
+        "raw": "$13.99",
+        "asin": "B0CJ9KVM4G",
+        "link": "https://www.amazon.com/Selector-Computers-Peripheral-Wire-Desktop-Controller/dp/B0CJ9KVM4G/ref=sr_1_118?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-118"
+      }
+    ],
+    "page": 5,
+    "position_overall": 118
+  },
+  {
+    "position": 116,
+    "name" : "Wathai",
+    "title": "Wathai 120mm x 32mm USB Blower Fan 5V High Performance with Speed Control for Electronics Computer Components, Home Theater, Receiver,3D Printers Cooling",
+    "asin": "B0C138RNCN",
+    "link": "https://www.amazon.com/Wathai-Performance-Electronics-Computer-Components/dp/B0C138RNCN/ref=sr_1_119?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-119",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/618mN04APWL._AC_UY218_.jpg",
+    "coupon": { "badge_text": "Save 5%", "text": "with coupon" },
+    "is_prime": true,
+    "rating": 4.4,
+    "ratings_total": 28,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 16.99,
+        "currency": "USD",
+        "raw": "$16.99",
+        "asin": "B0C138RNCN",
+        "link": "https://www.amazon.com/Wathai-Performance-Electronics-Computer-Components/dp/B0C138RNCN/ref=sr_1_119?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-119"
+      }
+    ],
+    "page": 5,
+    "position_overall": 119
+  },
+  {
+    "position": 117,
+    "name" : "Corsair iCUE LINK QX120 RGB",
+    "title": "Corsair iCUE LINK QX120 RGB 120mm Magnetic Dome RGB Single Fan - White",
+    "asin": "B0C64VHQPZ",
+    "link": "https://www.amazon.com/Corsair-QX120-120mm-Magnetic-Single/dp/B0C64VHQPZ/ref=sr_1_120?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-120",
+    "categories": [{ "name": "Computers", "id": "computers" }],
+    "image": "https://m.media-amazon.com/images/I/61uXj8WszxL._AC_UY218_.jpg",
+    "is_prime": true,
+    "rating": 4.2,
+    "ratings_total": 151,
+    "prices": [
+      {
+        "symbol": "$",
+        "value": 49.99,
+        "currency": "USD",
+        "raw": "$49.99",
+        "asin": "B0C64VHQPZ",
+        "link": "https://www.amazon.com/Corsair-QX120-120mm-Magnetic-Single/dp/B0C64VHQPZ/ref=sr_1_120?keywords=Computer+Components&qid=1699195126&s=pc&sr=1-120"
+      }
+    ],
+    "page": 5,
+    "position_overall": 120
+  }
+]
+}            
