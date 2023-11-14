@@ -4,7 +4,7 @@ import About from '../components/Pages/About'
 import Contact from '../components/Pages/Contact'
 import Shop from '../components/Pages/Shop'
 import Login from '../components/Login'
-import Gallery from '../components/Pages/Gallery'
+// import Gallery from '../components/Pages/Gallery'
 import Register from '../components/Register'
 import {Routes, Route } from 'react-router-dom'
 import NavOutlets from '../components/NavOutlets'
@@ -25,7 +25,7 @@ function AppRoueter() {
           <Route path="/"     element={<Home />} />
           <Route path="/Shop" element={<Shop />} />
           <Route path="/Shop/Shop/:position" element={<Shop2 />}/>
-          <Route path="/Gallery"     element={<Gallery />} />
+          {/* <Route path="/Gallery"     element={<Gallery />} /> */}
          <Route path="/Contact" element={<Contact />} />
          <Route path="/Profile" element={<Profile />} />
          <Route path="/About"     element={<About />} />
