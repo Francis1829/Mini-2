@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './Navbar'
 import Footer from './Footer'
-import Covid from './covid'
+import Covid from '../components/Covid'
 import { Outlet } from 'react-router-dom'
 
 function NavOutlets() {
