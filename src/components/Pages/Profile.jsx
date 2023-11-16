@@ -14,16 +14,18 @@ function ProductDetails({productsInCart}) {
   
   return (
     <>
-      <div className="flex w-full">
-        <div className="p-10 w-full">
-          <div className="Shop font-semibold text-[50px] font-[Agency] p-10 flex justify-between">
-            Profile 
-          </div>
-       <div className="text-[30px] font-[Agency] px-10">Username: {temp.username}</div>
-       <div className="flex justify-between px-10">
-        <div className="text-[30px] font-[Agency]">Email: {temp.email}</div>
+      <div className="w-full">
+        <div className="p-10 flex flex-col w-full">
+          <div className="flex lg:justify-between justify-center p-10">
+            <div className="Shop font-semibold lg:text-[3rem] text-[2rem] font-[Agency]  ">
+             Profile
+            </div>
+            </div> 
+             <div className="flex flex-col justify-between lg:p-10">
+       <div className="lg:text-xl text-lg font-[Agency]">Username: {temp.username}</div>
+        <div className="lg:text-xl text-lg font-[Agency]">Email: {temp.email}</div>
         <div className="btn flex justify-end text-md font-semibold">
-          <button className="cursor-pointer space-x-2 text-center font-semibold ease-out duration-200 rounded-md outline-none transition-all outline-0 bg-none bg-t-hover text-white border border-white shadow-sm text-md px-4 py-1 hidden lg:block m-1 hover:bg-light hover:text-black hover:border-black" onClick={Logoutbtn}>Logout</button>
+          <button className="cursor-pointer space-x-2 text-center font-semibold ease-out duration-200 rounded-md outline-none transition-all outline-0 bg-none bg-t-hover text-white border border-white shadow-sm text-md px-4 py-1 m-1 hover:bg-light hover:text-black hover:border-black" onClick={Logoutbtn}>Logout</button>
         </div>
         </div>
         <Cart/>

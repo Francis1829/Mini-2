@@ -21,10 +21,10 @@ function Cart() {
   return (
     <div>
       <div className="w-full h-full z-10">
-        <div className="relative w-[80%] h-[95%] my-[2rem] mx-auto bg-light flex flex-col p-4 rounded-md shadow-xl">
+        <div className="relative lg:w-[80%] w-auto h-auto my-[2rem] mx-auto bg-light flex flex-col p-4 rounded-md shadow-xl">
           <div className="flex justify-between py-3 m-5 rounded-sm px-4 bg-[#ccc]">
-            <div className="font-[Agency] text-[35px] flex items-center">
-              <img src={Text} alt="" className="mx-4" width={145} />
+            <div className="font-[Agency] lg:text-[35px] text-2xl flex items-center">
+              <img src={Text} alt="" className="mx-4 lg:w-[145px] w-[100px] h-auto"/>
               Cart
             </div>
           </div>

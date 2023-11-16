@@ -21,7 +21,7 @@ function Navbar() {
     },
     {
       Name: "Gallery",
-      Link: "/Gallery",
+      Link: "/",
     },
     {
       Name: "Contact",
