@@ -17,7 +17,7 @@ function ProductDetails({productsInCart}) {
       <div className="w-full">
         <div className="p-10 flex flex-col w-full">
           <div className="flex lg:justify-between justify-center p-10">
-            <div className="Shop font-semibold lg:text-[3rem] text-[2rem] font-[Agency]  ">
+            <div className="font-semibold lg:text-[3rem] text-[2rem] font-[Agency]  ">
              Profile
             </div>
             </div> 

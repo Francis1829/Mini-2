@@ -15,19 +15,19 @@ export default function Contact() {
   return (
     <>
       <main className="w-full h-full flex justify-center my-10">
-        <div className="container bg-theme-color p-8 rounded-md shadow-lg">
-          <div className="text-start text-[60px] tracking-wider font-bold font-[Agency]">
+        <div className="bg-theme-color p-8 rounded-md shadow-lg w-[95%]">
+          <div className="font-semibold lg:text-[3rem] text-[2rem] font-[Agency]  ">
             Contact Us
           </div>
-          <div className="container flex justify-center py-10">
-            <div className="cont flex justify-start w-full">
-              <div className="get flex flex-col w-[40%] m-2 font-[Roboto]">
-                <div className="getin mt-7 mb-4 text-[40px] font-semibold ">
+          <div className="flex justify-center pt-10">
+            <div className="cont flex lg:flex-row flex-col justify-start w-full">
+              <div className="get flex flex-col lg:w-[40%] w-auto m-2 font-[Roboto]">
+                <div className="getin mt-7 mb-4 lg:text-[3rem] text-[2rem] font-semibold ">
                   Get in touch
                 </div>
-                <div className="text-lg mb-2">Email: Sample@gmail.com</div>
-                <div className="text-lg mb-7">Phone: 09 XXXX XXX</div>
-                <div className="text-xl">
+                <div className="text-base lg:text-lg mb-2">Email: Sample@gmail.com</div>
+                <div className="text-base lg:text-lg mb-7">Phone: 09 XXXX XXX</div>
+                <div className="text-lg lg:text-xl">
                   We're friendly and available to chat. Reach out to us anytime
                   and we'll happily answer your questions.
                 </div>
@@ -35,7 +35,7 @@ export default function Contact() {
               <form
                 id="contactForm"
                 onSubmit={handleSubmit}
-                className="smsinput flex flex-col w-[60%]"
+                className="smsinput flex flex-col w-auto lg:w-[60%]"
               >
                 <div className="flex justify-between">
                   <input
@@ -59,11 +59,11 @@ export default function Contact() {
                   rows="8"
                   className="px-4 py-2 block box-border w-full rounded-md shadow-sm transition-all text-scale-1200 border focus:shadow-md outline-none focus:ring-current focus:ring-2 focus:border-scale-900 focus:ring-scale-400 placeholder-scale-800 text-sm resize-none"
                 />
-                <div className="bnttt mt-4">
+                <div className="bnttt mt-4 flex justify-center lg:justify-end">
                   <button
                     id="send"
                     type="submit"
-                    className='cursor-pointer space-x-2 text-center font-semibold ease-out duration-200 rounded-md outline-none transition-all outline-0 bg-none bg-t-hover text-white border border-white shadow-sm text-md px-7 py-1 hidden lg:block m-1 hover:bg-light hover:text-black'
+                    className='cursor-pointer space-x-2 text-center font-semibold ease-out duration-200 rounded-md outline-none transition-all outline-0 bg-none bg-t-hover text-white border border-white shadow-sm text-md px-7 py-1 m-1 hover:bg-light hover:text-black'
                   >
                     Send
                   </button>
