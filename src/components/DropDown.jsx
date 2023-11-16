@@ -26,7 +26,7 @@ function DropDown() {
       ]
   return (
    <>
-   <ul onClick={handleClick} className={click ? 'absolute right-0 top-[2.1rem]  bg-theme-color  cursor-pointer w-[150px]  tracking-wider text-[16px] rounded-b-xl  ' : 'right-0 absolute  top-[2.1rem] bg-theme-color cursor-pointer w-[150px] tracking-wider text-[16px] rounded-b-xl ' }>
+   <ul onClick={handleClick} className={click ? 'absolute lg:right-[4rem] right-[7rem] top-[14.6rem] lg:top-[2.8rem]  bg-theme-color  cursor-pointer w-[150px]  tracking-wider text-[16px] rounded-b-xl ' : 'lg:right-[4rem] absolute  lg:top-[2.8rem] right-[7rem] top-[14.6rem]  bg-theme-color cursor-pointer w-[150px] tracking-wider text-[16px] rounded-b-xl ' }>
             {DropdownList.map((item) => (
                 <li className="text-black p-1 w-full hover:bg-t-hover hover:rounded-b-xl hover:text-white flex justify-center items-center">
                     <Link to={item.Link} >
