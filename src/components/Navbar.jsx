@@ -25,8 +25,6 @@ function Navbar() {
       Link: "/Contact",
     },
   ];
-
-  const [mobOpen, setMobOpen] = useState(false);
   const [isOpen, setIsOpen] = useState(false);
   const [click, setClick] = useState(false);
 
@@ -45,7 +43,7 @@ function Navbar() {
     <>
       <header className="bg-white sticky top-0 z-40">
         <nav className="flex items-center justify-between md:px-16 px-5 py-2">
-          <div className="flex lg:justify-start justify-between items-center w-full">
+          <div className="flex lg:justify-start justify-between items-center lg:w-auto w-full">
             <div className="Logo mx-2">
               <img src={Logo} alt="" width={150} className="cursor-pointer" />
             </div>
