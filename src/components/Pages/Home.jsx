@@ -44,12 +44,12 @@ export default function Home() {
   return (
     <>
       <div className="Intro w-full h-full flex justify-center items-center my-10">
-        <div className="banner w-full h-[400px] relative"></div>
+        <div className="banner w-full lg:h-[400px] h-[200px] relative"></div>
         <div className="img absolute flex w-full justify-around">
-          <img src={Hero} alt="Hero" className="w-[420px] h-[450px] mb-9" />
-          <img src={Hero2} alt="Hero2" className="w-[400px] h-[440px] mt-7" />
+          <img src={Hero} alt="Hero" className="lg:w-[80%] w-[45%] max-w-[420px] h-auto mb-10" />
+          <img src={Hero2} alt="Hero2" className="lg:w-[80%] w-[45%] max-w-[400px] h-auto" />
         </div>
-        <div className="absolute text-white font-[Agency] drop-shadow-md text-[3rem] mb-[10rem]">
+        <div className="absolute text-center text-white font-[Agency] drop-shadow-md text-[2rem] lg:text-[3rem] lg:mb-[10rem] mb-[5rem]">
           Build your own gaming setup here in{' '}
           <span className="text-theme-color">TechHub!</span>
         </div>
@@ -64,20 +64,20 @@ export default function Home() {
 
       <div className="flex w-full">
         <div className="px-10 w-full">
-          <div className="Shop font-semibold font-[Agency] text-[40px] p-10">
+          <div className="Shop font-semibold font-[Agency] lg:text-[2.5rem] text-[1.5rem] lg:text-start text-center p-10">
             Top 5 High Rates
           </div>
-          <div className="shop-body flex justify-center">
+          <div className="shop-body flex lg:flex-row flex-col justify-center items-center">
             {top5Products.map((item) => (
               <div 
                 key={item.id}
-                className="w-[270px] h-[350px] rounded-lg shadow-md flex flex-col justify-between p-3 m-5 bg-white cursor-pointer"
+                className="w-[270px] h-auto rounded-lg shadow-md flex flex-col justify-between lg:items-start text-center lg:text-start items-center p-3 m-5 bg-white cursor-pointer"
               >
                 <Link to={`/Shop/Shop/${item.position}`}>
                 <img
                   src={item.image}
                   alt={item.title}
-                  className="p-5 w-[230px] h-[250px]"
+                  className="p-5 lg:w-[230px] w-auto lg:h-[250px] h-auto"
                 /></Link>
                 <div className="text-start text-lg font-semibold">
                   {item.name}
@@ -96,10 +96,8 @@ export default function Home() {
         </div>
       </div>
 <div className="w-full flex justify-center items-center my-20">
-  <div className="border-2 rounded-sm w-[80%] shadow-2xl">
+  <div className="border-2 rounded-sm lg:w-[80%] w-[70%] h-auto shadow-2xl">
         <MapQuest
-          height="80vh"
-          width="100%"
           center={[latt, langg]}
           titleLayer="map"
           zoom={12}
@@ -108,7 +106,7 @@ export default function Home() {
         </div>
         </div>
 
-        <div className="flex">
+        <div className="flex justify-center items-center">
           <Newsletter />
         </div>
     </>

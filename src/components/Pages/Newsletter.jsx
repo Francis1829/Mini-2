@@ -21,7 +21,7 @@ function Newsletter() {
     <div className="w-full">
         <div className="w-full flex justify-center items-center">
         <div className="newsletter w-[50%] text-center">
-      <h2 className='font-[Agency] font-semibold text-[30px]'>Subscribe to Our Newsletter</h2>
+      <h2 className='font-[Agency] font-semibold lg:text-[30px] text-[20px]'>Subscribe to Our Newsletter</h2>
       <form onSubmit={handleSubmit} className='flex justify-around items-center my-5'>
       <input
                   name="email"

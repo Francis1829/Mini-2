@@ -84,9 +84,9 @@ function Login() {
 
   return (
     <>
-      <div className="flex h-screen w-full justify-start items-center bg-white">
-        <div className="form text-black flex justify-center items-center h-full px-20 bg-[#f8f9fa] shadow-lg bg-scale-200 border-scale-500">
-          <div className="login flex flex-col justify-center items-centerrounded-[16px] py-9 ">
+      <div className="flex h-screen w-full lg:justify-start items-center bg-white">
+        <div className="form text-black flex justify-center lg:w-auto  w-full items-center h-full lg:px-20 bg-[#f8f9fa] shadow-lg bg-scale-200 border-scale-500">
+          <div className="login flex flex-col justify-center items-center rounded-[16px] py-9 ">
             <div className="absolute top-5 left-3">
                 <img src={Logo} alt="" width={150} />
             </div>
@@ -153,7 +153,7 @@ function Login() {
             </form>
           </div>
         </div>
-        <div className="relative h-full w-full flex flex-col justify-center items-center">
+        <div className="relative h-full w-full lg:flex hidden flex-col justify-center items-center">
           <div className="cards w-[40rem] h-80 flex flex-col p-5 rounded-xl shadow-md justify-center">
             {loading ? (
              <PulseLoader

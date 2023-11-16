@@ -29,45 +29,45 @@ function covid() {
 
   return (
     <>
-      <main className="flex justify-center p-4 font-[Roboto]">
+      <main className="lg:flex justify-center p-4 font-[Roboto]">
         <div className="container">
           <div className="card bg-white rounded p-3 shadow-md">
             <div className="text-black text-[20px] font-bold">
               Nationwide Cases Data
             </div>
-            <div className="flex justify-center items-center">
+            <div className="lg:flex block justify-center items-center">
               {data && (
                 <>
-                  <div className="bg-theme-color p-3 rounded text-white m-4 w-96">
-                    <div className="text-[25px]">
+                  <div className="bg-theme-color lg:p-3 p-2 rounded text-white m-4 lg:w-96 w-auto h-auto">
+                    <div className="lg:text-xl text-lg">
                       {data.country}
                     </div>
-                    <div className="text-sm">Population: {data.population}</div>
-                    <div className="text-sm">Time: {data.time}</div>
+                    <div className="md:text-lg">Population: {data.population}</div>
+                    <div className="md:text-sm">Time: {data.time}</div>
                   </div>
                   {cases && (
-                    <div className="bg-[#2a5e50] p-3 rounded text-white m-4 w-80">
-                      <div className="text-[15px]">Total Cases</div>
-                      <div className="text-[20px]"> {cases.total}</div>
-                      <div className="text-sm text-theme-color">
+                    <div className="bg-[#2a5e50] lg:p-3 p-2 rounded text-white m-4  lg:w-80 w-auto h-auto">
+                      <div className="lg:text-xl text-lg">Total Cases</div>
+                      <div className="md:text-lg"> {cases.total}</div>
+                      <div className="md:text-sm text-theme-color">
                         {cases.new}
                       </div>
                     </div>
                   )}
-                  <div className="bg-[#53818d] p-3 rounded text-white m-4 w-80" >
-                    <div className="text-[15px]">Active Cases</div>
-                    <div className="text-[20px]"> {cases.active}</div>
+                  <div className="bg-[#53818d] lg:p-3 p-2 rounded text-white m-4  lg:w-80 w-auto h-auto" >
+                    <div className="lg:text-xl text-lg">Active Cases</div>
+                    <div className="md:text-lg"> {cases.active}</div>
                   </div>
 
-                  <div className="bg-[#509f83] p-3 rounded text-white m-4 w-80">
-                    <div className="text-[15px]">Recovered</div>
-                    <div className="text-[20px]"> {cases.recovered}</div>
+                  <div className="bg-[#509f83] lg:p-3 p-2 rounded text-white m-4  lg:w-80 w-auto h-auto">
+                    <div className="lg:text-xl text-lg">Recovered</div>
+                    <div className="md:text-lg"> {cases.recovered}</div>
                   </div>
                   {deaths && (
 
-                    <div className="bg-[#444444] p-3 rounded text-white m-4 w-80">
-                    <div className="text-[15px]">Died</div>
-                    <div className="text-[20px]"> {deaths.total}</div>
+                    <div className="bg-[#444444] lg:p-3 p-2 rounded text-white m-4  lg:w-80 w-auto h-auto">
+                    <div className="lg:text-xl text-lg">Died</div>
+                    <div className="md:text-lg"> {deaths.total}</div>
                   </div>
                   )}
                 </>

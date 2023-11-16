@@ -26,7 +26,7 @@ const MapQuest = ({ height, width, center, titleLayer, zoom, apiKey }) => {
     };
   }, [apiKey, center, titleLayer, zoom]);
 
-  return <div id="map" style={{ width, height, zIndex: 5 }}></div>;
+  return <div id="map" className='w-full lg:h-[500px] h-[300px] z-10 '></div>;
 };
 
 export default MapQuest;

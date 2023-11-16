@@ -82,12 +82,13 @@ function Register() {
   }, []);
   return (
     <>
-      <div className="w-ful h-screen flex justify-start  items-center bg-white">
-        <div className="cards h-full flex flex-col justify-center bg-[#f8f9fa] px-20 shadow-lg bg-scale-200 border-scale-500 pt-10  ">
+      <div className="w-full h-screen flex lg:justify-start  items-center bg-white">
+        <div className="cards h-full lg:w-auto  w-full flex flex-col justify-center bg-[#f8f9fa] lg:px-20 shadow-lg bg-scale-200 border-scale-500 pt-10  ">
+        <div className="login flex flex-col justify-center items-center rounded-[16px] py-9 ">
         <div className="absolute top-5 left-3">
                 <img src={Logo} alt="" width={150} />
             </div>
-          <div className="text-[36px] text-start font-semibold w-full">
+          <div className="text-[36px] text-start font-semibold">
             <h1>Get Started</h1>
           </div>
           <span className="text-sm text-black opacity-80 ml-3">Create a new account</span>
@@ -150,10 +151,12 @@ function Register() {
               <div className="mx-8 text-sm text-color mt-5">
                    Have an Account? <Link to="/Dashboard/Login" className="underline">Sign In Now</Link>
                 </div>
+                
             </form>
+            </div>
           </div>
         </div>
-        <div className="relative h-full w-full flex flex-col justify-center items-center">
+        <div className="relative h-full w-full lg:flex hidden flex-col justify-center items-center">
           <div className="cards w-[40rem] h-80 flex flex-col p-5 rounded-xl shadow-md justify-center">
             {loading ? (
              <PulseLoader

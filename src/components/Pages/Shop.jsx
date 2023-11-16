@@ -5,8 +5,7 @@ import { PulseLoader } from "react-spinners";
 import SearchBar from "./SearchBar";
 import { useContext } from "react";
 import { Link } from "react-router-dom";
-import  CartContext  from "../Context/CartContext";
-
+import CartContext from "../Context/CartContext";
 
 function Shop() {
   const [loading, setLoading] = useState(false);
@@ -22,27 +21,28 @@ function Shop() {
   const [searchTerm, setSearchTerm] = useState("");
 
   useEffect(() => {
+    const fetchData = async () => {
+      setLoading(true);
+      try {
+        const response = await fetch("http://localhost:3001/product", {
+          headers: {
+            "Content-type": "application/json",
+            Accept: "application/json",
+          },
+        });
+        const jsonData = await response.json();
+        setData(jsonData);
+      } catch (error) {
+        console.error("Error fetching data:", error);
+      } finally {
+        setLoading(false);
+      }
+    };
+
     fetchData();
   }, [currentPage, searchTerm]);
 
-
-  const fetchData = () => {
-    setLoading(true);
-    fetch("http://localhost:3001/product", {
-      headers: {
-        "Content-type": "application/json",
-        Accept: "application/json",
-      },
-    })
-      .then((response) => response.json())
-      .then((json) => setData(json));
-
-    setTimeout(() => {
-      setLoading(false);
-    }, 500);
-  };
-
-  const pageCount = Math.ceil(data.length / itemsPerPage);
+  const pageCount = Math.ceil((searchTerm ? searchResults.length : data.length) / itemsPerPage);
   const handlePageClick = ({ selected }) => {
     setCurrentPage(selected);
   };
@@ -51,42 +51,41 @@ function Shop() {
     setSearchTerm(term);
     setCurrentPage(0);
     const filteredResults = data.filter((item) =>
-      item.name.toLowerCase().includes(term.toLowerCase())
+      item.title.toLowerCase().includes(term.toLowerCase())
     );
     setSearchResults(filteredResults);
   };
 
   const startIndex = currentPage * itemsPerPage;
   const endIndex = startIndex + itemsPerPage;
-  const displayedData = data.slice(startIndex, endIndex);
+  const displayedData = searchTerm ? searchResults : data.slice(startIndex, endIndex);
 
-  const convertToPhp = (usdPrice) => {
-    const phpPrice = usdPrice * usdToPhpExchangeRate;
-    return `₱${phpPrice.toFixed(3)}`;
-  };
+  const convertToPhp = (usdPrice) => `₱${(usdPrice * usdToPhpExchangeRate).toFixed(3)}`;
 
   return (
     <>
       <div className="flex w-full">
         <div className="p-10 w-full">
-          <div className="Shop font-semibold text-[50px] font-[Agency] p-10 flex justify-between">
-            Shop
+          <div className="flex lg:justify-between justify-center p-10">
+            <div className="Shop font-semibold lg:text-[3rem] text-[2rem] font-[Agency]  ">
+              Shop
+            </div>
             <SearchBar onSearch={handleSearch} />
           </div>
-
-          <div className="shop-body flex flex-wrap justify-center">
-            {loading ? (
-              <PulseLoader
-                color="#c9aa5b"
-                cssOverride={{
-                  display: "flex",
-                  justifyContent: "center",
-                }}
-              />
-            ) : (
-              displayedData.map((item) => (
+          {loading && (
+            <PulseLoader
+              color="#c9aa5b"
+              cssOverride={{
+                display: "flex",
+                justifyContent: "center",
+              }}
+            />
+          )}
+          {!loading && (
+            <div className="shop-body flex flex-wrap justify-center">
+              {displayedData.map((item) => (
                 <div
-                  key={item.id}
+                  key={item.position}
                   className="w-[290px] h-[400px] rounded-lg shadow-md flex flex-col justify-between p-3 m-2 bg-white cursor-pointer"
                 >
                   <Link to={`Shop/${item.position}`}>
@@ -105,19 +104,17 @@ function Shop() {
                         <p>{convertToPhp(price.value)}</p>
                         <div className="flex justify-between items-center">
                           <Star stars={item.rating} />
-                          <button onClick={() =>
-                          addToCart(
-                            {
-                              name: item.name,
-                              title: item.title,
-                              image: item.image,
-                              price: convertToPhp(price.value),
-                              quantity: 1,
-
+                          <button
+                            onClick={() =>
+                              addToCart({
+                                name: item.name,
+                                title: item.title,
+                                image: item.image,
+                                price: convertToPhp(price.value),
+                                quantity: 1,
+                              })
                             }
-                          )
-                        }
-                            className="cursor-pointer space-x-2 text-center font-semibold ease-out duration-200 rounded-md outline-none transition-all outline-0 bg-none bg-t-hover text-white border border-white shadow-sm text-md px-4 py-1 hidden lg:block m-1 hover:bg-light hover:text-black hover:border-black"
+                            className="cursor-pointer space-x-2 text-center font-semibold ease-out duration-200 rounded-md outline-none transition-all outline-0 bg-none bg-t-hover text-white border border-white shadow-sm text-md px-4 py-1 m-1 hover:bg-light hover:text-black hover:border-black"
                           >
                             Add to Cart
                           </button>
@@ -126,9 +123,9 @@ function Shop() {
                     ))}
                   </div>
                 </div>
-              ))
-            )}
-          </div>
+              ))}
+            </div>
+          )}
         </div>
       </div>
 
@@ -141,7 +138,7 @@ function Shop() {
           breakClassName={"break-me"}
           pageCount={pageCount}
           marginPagesDisplayed={2}
-          pageRangeDisplayed={5}
+          pageRangeDisplayed={1}
           onPageChange={handlePageClick}
           containerClassName={"pagination"}
           subContainerClassName={"pages pagination"}

@@ -50,41 +50,59 @@ const Social = [
 
   return (
     <>
-    <footer className="text-white h-[350px] flex flex-col py-12 mt-3">
-      <div className="container mx-auto flex justify-between">
-        <div className="w-full m-3 md:w-1/4 mb-4 md:mb-0">
-          <img src={Logo} alt="" width={150}/>
+    <footer className="text-white">
+      <div className="flex lg:flex-row flex-col mx-10 py-5 ">
+        <div className="lg:w-[20%] w-auto lg:py-[3rem] py-1 lg:block 
+        flex justify-center flex-col items-center text-center lg:text-start">
+          <img src={Logo} alt="" className='w-[150px] h-auto'/>
           <div className="subtle text-2xl font-[Agency]">Your Tech Wonderland</div>
         </div>
-        <div className="w-full flex flex-col md:w-1/4 mb-4 md:mb-0">
-          <div className="text-start m-2 font-[Agency] text-[35px]">Company</div>
-          <div className="Navlist flex flex-col h-16 font-[Roboto] m-3">
-                {Footlist.map((data) => (
-                    <Link to={data.Link} className='mb-3 font-[Roboto] text-[18px]'>
-                    {data.Name}</Link>
-                 ))}
-                 </div>
+        <div className="lg:w-[20%] w-auto lg:py-[3rem] py-1 lg:block flex justify-center flex-col items-center text-center">
+          <div className='text-start font-[Agency] mb-3 lg:text-[30px] text-lg'>Company</div>
+          
+          {Footlist.map((item) => (
+          <ul className='flex mb-2 mx-1 font-[Roboto] lg:text-base text-sm'>
+            <li className='hover:underline'>
+              <Link to={item.Link} >
+            {item.Name}
+            </Link>
+            </li>
+          </ul>
+           
+          ))}
         </div>
-        <div className="w-full flex flex-col md:w-1/4 mb-4 md:mb-0">
-          <div className="text-start m-2 font-[Agency] text-[35px]">Social</div>
-          <div className="Navlist flex flex-col h-16 font-[Roboto] m-3">
-                {Social.map((data) => (
-                    <Link to={data.Link} className='mb-3 text-center font-[Roboto] text-[35px]'>
-                    {data.Icon}</Link>
-                 ))}
-                 </div>
+       <div className="lg:w-[20%] w-auto lg:py-[3rem] py-1 lg:block flex justify-center flex-col items-center text-center ">
+        <div className='text-start font-[Agency] mb-3 lg:text-[30px] text-lg'>Socials</div>
+        {Social.map((list) => (
+          <ul className='text-center font-[Roboto] lg:text-[32px] text-lg mb-2 mx-1'>
+          <li >
+            <Link to={list.Link} className=''>
+            {list.Icon}
+            </Link>
+            </li>
+            </ul>
+        ))}
+       </div>
+       <div className="lg:w-[20%] w-auto lg:py-[3rem] py-1 lg:block flex justify-center flex-col items-center text-center lg:text-start">
+          <div className='text-start font-[Agency] mb-3 lg:text-[30px] text-lg'>Help</div>
+          <ul className='flex mb-2 mx-1 font-[Roboto] lg:text-base text-sm flex-col '>
+            <li><Link to="/Terms" className='hover:underline'> Terms</Link> </li>
+            <li><Link to="/Conditions" className='hover:underline'> Conditions</Link> </li>
+            <li><Link to="/Terms" className='hover:underline'>Help Center</Link> </li>
+            <li><Link to="/Terms" className='hover:underline'>Privacy Settings</Link> </li>
+          </ul>
         </div>
-        <div className="w-full flex flex-col md:w-1/4 mb-4 md:mb-0">
-          <div className="text-start m-2 font-[Agency] text-[35px]">Address</div>
-          <div className="m-3 font-[Roboto] text-[18px]">Burgos,Isabela, Phillipines 3322</div>
+        <div className="lg:w-[20%] w-auto lg:py-[3rem] py-1 lg:block flex justify-center flex-col items-center text-center lg:text-start">
+          <div className='text-start font-[Agency] mb-3 lg:text-[30px] text-lg'>Address</div>
+          <div className=' mb-2 mx-1 font-[Roboto] lg:text-base text-sm '>Burgos, Isabela, Philippines, 3322</div>
         </div>
       </div>
-    </footer>
+
     <div className="footl w-full p-2">
-      <div className="alr p-2 text-white text-[18px] border-t m-4">
-        Copyright © 2023 techub. All Rights Reserved.
-        </div>
-        </div>
+      <div className="alr border-t m-4"></div>
+        <div className='text-white lg:text-base text-sm mx-5 text-center'>Copyright © 2023 techub. All Rights Reserved.</div>
+        </div> 
+           </footer>
       </>
   );
 }

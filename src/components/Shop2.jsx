@@ -60,18 +60,19 @@ function Shop2() {
               <>
           {data.map((item) => (
             <>
-            <div className="p-10 w-full flex">
-            <div className='bg-white p-5 rounded-xl border shadow-md text-center'>
-            <img src={item.image} alt={item.name} className='m-5 w-[330px] h-[320px]' />
+            <div className="lg:p-20 p-10 w-full flex justify-center items-center lg:flex-row flex-col">
+            <div className='bg-white p-5 lg:w-[75%] rounded-xl border shadow-md text-center'>
+            <img src={item.image} alt={item.name} className='w-[330px] h-auto' />
             <div className="Shop font-semibold text-[25px] mt-5">
                 {item.name}
                 
              </div>
             </div> 
-            <div className="fex px-[8rem] my-5 w-[65%]">
-                <div className='text-[20px]'>{item.title}
+            <div className="flex flex-col lg:px-[8rem] my-5 lg:w-auto w-[80%]">
+                <div className='lg:text-lg text-base font-semibold '>{item.title} </div>
+                
                 {item.categories.map((cat, i) => 
-                <div className='mt-2 text-[18px]'>Categories: {cat.name}</div>
+                <div className='mt-2 text-base italic'>Categories: {cat.name}</div>
                 )}
                   {item.prices.map((price, i) => 
                   <>
@@ -79,7 +80,7 @@ function Shop2() {
                   <div className='flex gap-2'>
                   <Star stars={item.rating} />({item.rating})
                   </div>
-                  <div className="flex">
+                  <div className="flex gap-5 my-10 lg:justify-start justify-center">
                   <button onClick={() =>
                           addToCart(
                             {
@@ -91,18 +92,16 @@ function Shop2() {
 
                             }
                           )
-                        } className="cursor-pointer space-x-2 text-center font-semibold ease-out duration-200 rounded-md outline-none transition-all outline-0 bg-none bg-t-hover text-white border border-white shadow-sm text-md w-[180px] h-[60px] hidden lg:block my-10  hover:bg-light hover:text-black hover:border-black mr-20">
+                        } className="cursor-pointer space-x-2 text-center font-semibold ease-out duration-200 rounded-md outline-none transition-all outline-0 bg-none bg-t-hover text-white border border-white shadow-sm text-base lg:w-[180px] w-[120px] lg:h-[60px] h-[40px]  hover:bg-light hover:text-black hover:border-black lg:mr-20">
                             Add to Cart
                           </button>
-                  <button className="cursor-pointer space-x-2 text-center font-semibold ease-out duration-200 rounded-md outline-none transition-all outline-0 bg-none bg-light text-black border border-black shadow-sm text-md w-[180px] h-[60px] hidden lg:block my-10 hover:bg-t-hover hover:text-white hover:border-light">
+                  <button className="cursor-pointer space-x-2 text-center font-semibold ease-out duration-200 rounded-md outline-none transition-all outline-0 bg-none bg-light text-black border border-black shadow-sm text-base lg:w-[180px] w-[120px] lg:h-[60px] h-[40px] hover:bg-t-hover hover:text-white hover:border-light">
                             Buy Now
                           </button>
                           
                           </div>
                   </>
                   )}
-
-                </div>
             </div>
         </div>
        
