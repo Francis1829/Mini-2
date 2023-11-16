@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import { PulseLoader } from "react-spinners";
 import "boxicons";
+import { useNavigate } from "react-router-dom";
 import { Link } from "react-router-dom";
 import Logo from './img/Logo2.png'
 import Swal from "sweetalert2";
@@ -20,6 +21,8 @@ function Register() {
     setData({ ...data, [name]: value });
   };
 
+  const navigate = useNavigate()
+
   const Loginsubmit = (e) => {
     e.preventDefault();
     const validationErrors = validate(data);
@@ -30,7 +33,7 @@ function Register() {
       confirmButtonColor: '#f0cb6e'})
       .then((result) => {
         if (result.isConfirmed) { 
-          window.location.reload() 
+          navigate("/Dashboard/Login")
          }
       })
       localStorage.setItem("data", JSON.stringify(data));
