@@ -87,6 +87,7 @@ function Register() {
         <div className="login flex flex-col justify-center items-center rounded-[16px] py-9 ">
         <div className="absolute top-5 left-3">
                 <img src={Logo} alt="" width={150} />
+                <div className=" ml-2 lg:text-2xl text-lg font-[Agency]">Your Tech Wonderland</div>
             </div>
           <div className="text-[36px] text-start font-semibold">
             <h1>Get Started</h1>

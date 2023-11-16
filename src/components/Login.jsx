@@ -88,7 +88,10 @@ function Login() {
         <div className="form text-black flex justify-center lg:w-auto  w-full items-center h-full lg:px-20 bg-[#f8f9fa] shadow-lg bg-scale-200 border-scale-500">
           <div className="login flex flex-col justify-center items-center rounded-[16px] py-9 ">
             <div className="absolute top-5 left-3">
+              <Link to="/">
                 <img src={Logo} alt="" width={150} />
+                <div className=" ml-2 lg:text-2xl text-lg font-[Agency]">Your Tech Wonderland</div>
+                </Link>
             </div>
             <div className="welcome text-start text-[36px] font-semibold">
               Welcome back
