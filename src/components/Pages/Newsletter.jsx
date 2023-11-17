@@ -22,17 +22,17 @@ function Newsletter() {
         <div className="w-full flex justify-center items-center">
         <div className="newsletter w-[50%] text-center">
       <h2 className='font-[Agency] font-semibold lg:text-[30px] text-[20px]'>Subscribe to Our Newsletter</h2>
-      <form onSubmit={handleSubmit} className='flex justify-around items-center my-5'>
+      <form onSubmit={handleSubmit} className='flex justify-center lg:justify-around items-center my-5'>
       <input
                   name="email"
                   id="email"
                   placeholder="sample@gmail.com"
-                  className="block box-border w-full rounded-md shadow-md transition-all text-scale-1200 border focus:shadow-md outline-none focus:ring-current focus:ring-2 focus:border-scale-900 focus:ring-scale-400 placeholder-scale-800 text-sm px-4 py-2"
+                  className="block box-border lg:w-full w-auto rounded-md shadow-md transition-all text-scale-1200 border focus:shadow-md outline-none focus:ring-current focus:ring-2 focus:border-scale-900 focus:ring-scale-400 placeholder-scale-800 text-sm px-4 py-2 mx-1"
           value={email}
           onChange={handleEmailChange}
         />
         <div className='flex justify-center items-center'>
-        <button type="submit" className='cursor-pointer space-x-2 text-center text-white font-semibold ease-out duration-200 rounded-md outline-none transition-all outline-0 bg-theme-color border shadow-md text-md px-7 py-2 hidden lg:block m-1 hover:bg-light hover:text-black'>Subscribe</button></div>
+        <button type="submit" className='cursor-pointer space-x-2 text-center text-white font-semibold ease-out duration-200 rounded-md outline-none transition-all outline-0 bg-theme-color border shadow-md text-sm lg:text-base px-7 py-2 mx-1 hover:bg-light hover:text-black'>Subscribe</button></div>
       </form>
     </div>
     </div>  
