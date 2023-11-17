@@ -5,6 +5,7 @@ import { IoClose } from "react-icons/io5";
 import { FaBars } from "react-icons/fa";
 import { AiOutlineCaretUp, AiOutlineCaretDown } from "react-icons/ai";
 import DropDown from "./DropDown";
+import { useNavigate } from "react-router-dom";
 
 function Navbar() {
   const Navlist = [
@@ -27,6 +28,7 @@ function Navbar() {
   ];
   const [isOpen, setIsOpen] = useState(false);
   const [click, setClick] = useState(false);
+  const navigate = useNavigate()
 
   const handleClick = () => setClick(!click);
 
