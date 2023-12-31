@@ -28,9 +28,10 @@ function Navbar() {
   ];
   const [isOpen, setIsOpen] = useState(false);
   const [click, setClick] = useState(false);
-  const navigate = useNavigate()
+
 
   const handleClick = () => setClick(!click);
+  const HandleClicks = () => setClick(false);
 
   const temp = JSON.parse(localStorage.getItem("data"));
   const [show, setShow] = useState(false);
@@ -76,7 +77,7 @@ function Navbar() {
             {Navlist.map((data) => (
               <li key={data.Name}>
                 <Link
-                  to={data.Link}
+                  to={data.Link} onClick={HandleClicks}
                   className="block py-2 px-3 font-[Roboto] text-[16px] font-semibold tracking-wider text-center"
                 >
                   {data.Name}
